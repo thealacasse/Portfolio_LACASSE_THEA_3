@@ -23,13 +23,14 @@ Anadol offre de nouvelles perspectives sur les possibilités de représentation 
 ## _Nature Dreams_
 Une série d'expériences de réalité synesthésique basée sur le style GAN 2 utilisant plus de 69 millions d'images des parcs nationaux, de l'Islande et d'autres merveilles naturelles pour former un modèle générateur de la machine pour rêver des éléments les plus fascinants de notre Mère Nature. Cette transformation des données devient non seulement un moyen de visualiser l'information, mais aussi une transmutation de notre désir de faire l'expérience de la nature en un visuel poétique.
 
-## Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
+## EXPLICATION SUR LA MISE EN ESPACE DE L'OEUVRE
+L'oeuvre est esxposé dans une pièce sombre avec d'autres oeuvre à l'entour. Placé sur un grand mur noir, la création 
 
 ## Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
 
 ## Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
 
-## Expérience vécue :
+## EXPÉRIENCE VÉCUE:
 
 > Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
 
