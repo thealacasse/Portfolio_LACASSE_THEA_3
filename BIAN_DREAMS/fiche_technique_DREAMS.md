@@ -17,10 +17,10 @@
 ### _Space Dreams_ 
 Transforme un vaste ensemble de données de 1,2 million d'images capturées à partir de la station spatiale internationale (ISS), ainsi que des images satellites supplémentaires des topologies de la Terre, en un tableau de données dynamiques. Chaque version du rêve de la machine est dérivée d'une marche latente différente du réseau antagoniste génératif (GAN), explorant la capacité de l'intelligence artificielle à atteindre son propre subconscient et offrant une forme d'esthétique cartographique d'avant-garde.
   
-## _Urban Dreams_ 
+### _Urban Dreams_ 
 Anadol offre de nouvelles perspectives sur les possibilités de représentation qui émergent à l'intersection de la technologie avancée, de la mémoire urbaine et l'art contemporain. L'œuvre utilise plus de 100 millions d'images provenant des villes de New York et Berlin, en se concentrant plus particulièrement sur les espaces publics typiques. Le contenu est utilisé pour former un StyleGAN2 à l'identification et à l'apprentissage des motifs cachés dans le paysage urbain, en montrant comment le processus insaisissable de récupération de la mémoire se transforme en données les collections. 
   
-## _Nature Dreams_
+### _Nature Dreams_
 Une série d'expériences de réalité synesthésique basée sur le style GAN 2 utilisant plus de 69 millions d'images des parcs nationaux, de l'Islande et d'autres merveilles naturelles pour former un modèle générateur de la machine pour rêver des éléments les plus fascinants de notre Mère Nature. Cette transformation des données devient non seulement un moyen de visualiser l'information, mais aussi une transmutation de notre désir de faire l'expérience de la nature en un visuel poétique.
 
 ## EXPLICATION SUR LA MISE EN ESPACE DE L'OEUVRE
