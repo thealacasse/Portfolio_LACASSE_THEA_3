@@ -34,6 +34,7 @@ L'oeuvre est esxposé dans une pièce sombre avec d'autres oeuvres à l'entour. 
 
 > Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
 
-> Ce qui vous a plu, vous a donné des idées et justifications
+- CE QUE J'AI LE PLUS AIMÉE:
+ 
 
 > Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
