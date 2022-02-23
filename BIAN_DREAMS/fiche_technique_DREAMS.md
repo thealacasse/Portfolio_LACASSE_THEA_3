@@ -13,6 +13,7 @@
 ## DESCRIPTION 
 >#### Ces textes sont tirés du site web de l'exposition International Digital Art Biennial - [Exposition BIAN site web](https://www.elektramontreal.ca/bian2021-refik-anadol?lang=fr)
 
+![photo oeuvre]
 
 ### _Space Dreams_ 
 Transforme un vaste ensemble de données de 1,2 million d'images capturées à partir de la station spatiale internationale (ISS), ainsi que des images satellites supplémentaires des topologies de la Terre, en un tableau de données dynamiques. Chaque version du rêve de la machine est dérivée d'une marche latente différente du réseau antagoniste génératif (GAN), explorant la capacité de l'intelligence artificielle à atteindre son propre subconscient et offrant une forme d'esthétique cartographique d'avant-garde.
@@ -24,17 +25,28 @@ Anadol offre de nouvelles perspectives sur les possibilités de représentation 
 Une série d'expériences de réalité synesthésique basée sur le style GAN 2 utilisant plus de 69 millions d'images des parcs nationaux, de l'Islande et d'autres merveilles naturelles pour former un modèle générateur de la machine pour rêver des éléments les plus fascinants de notre Mère Nature. Cette transformation des données devient non seulement un moyen de visualiser l'information, mais aussi une transmutation de notre désir de faire l'expérience de la nature en un visuel poétique.
 
 ## EXPLICATION SUR LA MISE EN ESPACE DE L'OEUVRE
-L'oeuvre est esxposé dans une pièce sombre avec d'autres oeuvres à l'entour. Placé sur un grand mur noir, la création 
+- L'oeuvre est esxposé dans une pièce sombre avec d'autres oeuvres à l'entour. Placé sur un grand mur noir, la création est étallée sur AAAA de mètres
+-  
 
 ## Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
+- Cadre 
 
-## Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
+## Liste des éléments nécessaires pour la mise en exposition  
+- du tape noir pour camoufler les fil
+- 
 
 ## EXPÉRIENCE VÉCUE:
 
-> Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
+> Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité
+- Il y a énormément de minuscules micros-images qui se déplacent en même temps qui créent une sorte de mouvement très fluide, voir presque hypnotisant
+- Un mouvement avec de la profondeur créée avec des images 2D    
 
 - CE QUE J'AI LE PLUS AIMÉE:
+  - J'ai vraiment aimée les couleurs choisi dans l'oeuvre, elles forment une harmonie qui rend le tout à la fois chalereux et reconfortant
+  - J'ai aimée la disposition de l'oeuvre (l'espacement/la distance entre chaque cadre)
+  -  
  
 
 > Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
+- J'aurais évitée de placer d'autres oeuvres similaires aussi proches  
+
