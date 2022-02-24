@@ -39,7 +39,9 @@ Une série d'expériences de réalité synesthésique basée sur le style GAN 2 
 
 - DESCRIPTION DE VOTRE EXPÉRIENCE DE L'OEUVRE: 
   - Il y a énormément (on parle de plus d'un million) de minuscules micros-images qui se déplacent en même temps qui créent une sorte de mouvement très fluide, voir presque hypnotisant
-  - Un mouvement avec de la profondeur créée avec des images 2D est assez impressionnant à voir, nous avions le goût d'aller nager dans l'oeuvre   
+  - Un mouvement avec de la profondeur créée avec des images 2D est assez impressionnant à voir, nous avions le goût d'aller nager dans l'oeuvre
+  
+  ![video oeuvre](
 
 - CE QUE J'AI LE PLUS AIMÉE:
   - J'ai vraiment aimée les couleurs choisi dans l'oeuvre, elles forment une harmonie qui rend le tout à la fois chalereux et reconfortant
