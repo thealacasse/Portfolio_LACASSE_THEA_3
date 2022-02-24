@@ -26,7 +26,10 @@ Une série d'expériences de réalité synesthésique basée sur le style GAN 2 
 
 ## EXPLICATION SUR LA MISE EN ESPACE DE L'OEUVRE
 - L'oeuvre est esxposé dans une pièce sombre avec d'autres oeuvres à l'entour. Placé sur un grand mur noir, la création est étallée sur un bon 5 mètres environ de mémoire
--  
+
+# Voici le croquis de l'oeuvre vue de haut
+
+![croqui](medias/IMG_1152.jpg)
 
 ## Liste des composantes et techniques de l'oeuvre ou du dispositif 
 - Écran numérique couleur haute définition
