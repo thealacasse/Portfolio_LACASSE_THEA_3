@@ -36,6 +36,9 @@ Une série d'expériences de réalité synesthésique basée sur le style GAN 2 
 - Tuyau pour couvrir encore une fois les fils 
 - Une pièce sombre pour avoir une meilleure expérience 
 
+
+![photo couvre fils](medias/IMG_1147.jpg)
+
 ## EXPÉRIENCE VÉCUE:
 
 - DESCRIPTION DE VOTRE EXPÉRIENCE DE L'OEUVRE: 
