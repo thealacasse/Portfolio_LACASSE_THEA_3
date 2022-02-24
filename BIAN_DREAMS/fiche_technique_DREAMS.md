@@ -13,7 +13,7 @@
 ## DESCRIPTION 
 >#### Ces textes sont tirés du site web de l'exposition International Digital Art Biennial - [Exposition BIAN site web](https://www.elektramontreal.ca/bian2021-refik-anadol?lang=fr)
 
-![photo oeuvre](medias/IMG_0458.jpg)
+![photo oeuvre](medias/photo1.png)
 
 ### _Space Dreams_ 
 Transforme un vaste ensemble de données de 1,2 million d'images capturées à partir de la station spatiale internationale (ISS), ainsi que des images satellites supplémentaires des topologies de la Terre, en un tableau de données dynamiques. Chaque version du rêve de la machine est dérivée d'une marche latente différente du réseau antagoniste génératif (GAN), explorant la capacité de l'intelligence artificielle à atteindre son propre subconscient et offrant une forme d'esthétique cartographique d'avant-garde.
@@ -37,9 +37,9 @@ Une série d'expériences de réalité synesthésique basée sur le style GAN 2 
 
 ## EXPÉRIENCE VÉCUE:
 
-> Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité
-- Il y a énormément de minuscules micros-images qui se déplacent en même temps qui créent une sorte de mouvement très fluide, voir presque hypnotisant
-- Un mouvement avec de la profondeur créée avec des images 2D    
+- DESCRIPTION DE VOTRE EXPÉRIENCE DE L'OEUVRE: 
+  - Il y a énormément de minuscules micros-images qui se déplacent en même temps qui créent une sorte de mouvement très fluide, voir presque hypnotisant
+  - Un mouvement avec de la profondeur créée avec des images 2D    
 
 - CE QUE J'AI LE PLUS AIMÉE:
   - J'ai vraiment aimée les couleurs choisi dans l'oeuvre, elles forment une harmonie qui rend le tout à la fois chalereux et reconfortant
@@ -47,6 +47,6 @@ Une série d'expériences de réalité synesthésique basée sur le style GAN 2 
   -  
  
 
-> Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
-- J'aurais évitée de placer d'autres oeuvres similaires aussi proches  
+- ASPECT QUE VOUS NE SOUHAITERIEZ PAS RETENIR POUR VOS PROPRES CRÉATIONS: 
+  - J'aurais évitée de placer d'autres oeuvres similaires aussi proches  
 
