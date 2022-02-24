@@ -28,8 +28,8 @@ Une série d'expériences de réalité synesthésique basée sur le style GAN 2 
 - L'oeuvre est esxposé dans une pièce sombre avec d'autres oeuvres à l'entour. Placé sur un grand mur noir, la création est étallée sur un bon 5 mètres environ de mémoire
 -  
 
-## Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
-- Écran
+## Liste des composantes et techniques de l'oeuvre ou du dispositif 
+- Écran numérique couleur haute définition
 
 ## Liste des éléments nécessaires pour la mise en exposition  
 - Du tape noir pour camoufler les fils
