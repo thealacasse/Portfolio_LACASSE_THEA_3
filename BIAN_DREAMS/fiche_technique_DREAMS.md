@@ -33,6 +33,7 @@ Une série d'expériences de réalité synesthésique basée sur le style GAN 2 
 
 ## Liste des éléments nécessaires pour la mise en exposition  
 - Du tape noir pour camoufler les fils
+- Tuyau pour couvrir encore une fois les fils 
 - Une pièce sombre pour avoir une meilleure expérience 
 
 ## EXPÉRIENCE VÉCUE:
