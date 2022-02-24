@@ -25,28 +25,29 @@ Anadol offre de nouvelles perspectives sur les possibilités de représentation 
 Une série d'expériences de réalité synesthésique basée sur le style GAN 2 utilisant plus de 69 millions d'images des parcs nationaux, de l'Islande et d'autres merveilles naturelles pour former un modèle générateur de la machine pour rêver des éléments les plus fascinants de notre Mère Nature. Cette transformation des données devient non seulement un moyen de visualiser l'information, mais aussi une transmutation de notre désir de faire l'expérience de la nature en un visuel poétique.
 
 ## EXPLICATION SUR LA MISE EN ESPACE DE L'OEUVRE
-- L'oeuvre est esxposé dans une pièce sombre avec d'autres oeuvres à l'entour. Placé sur un grand mur noir, la création est étallée sur AAAA de mètres
+- L'oeuvre est esxposé dans une pièce sombre avec d'autres oeuvres à l'entour. Placé sur un grand mur noir, la création est étallée sur un bon 5 mètres environ de mémoire
 -  
 
 ## Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
-- Cadre 
+- Écran
 
 ## Liste des éléments nécessaires pour la mise en exposition  
-- du tape noir pour camoufler les fil
-- 
+- Du tape noir pour camoufler les fils
+- Une pièce sombre pour avoir une meilleure expérience 
 
 ## EXPÉRIENCE VÉCUE:
 
 - DESCRIPTION DE VOTRE EXPÉRIENCE DE L'OEUVRE: 
-  - Il y a énormément de minuscules micros-images qui se déplacent en même temps qui créent une sorte de mouvement très fluide, voir presque hypnotisant
-  - Un mouvement avec de la profondeur créée avec des images 2D    
+  - Il y a énormément (on parle de plus d'un million) de minuscules micros-images qui se déplacent en même temps qui créent une sorte de mouvement très fluide, voir presque hypnotisant
+  - Un mouvement avec de la profondeur créée avec des images 2D est assez impressionnant à voir, nous avions le goût d'aller nager dans l'oeuvre   
 
 - CE QUE J'AI LE PLUS AIMÉE:
   - J'ai vraiment aimée les couleurs choisi dans l'oeuvre, elles forment une harmonie qui rend le tout à la fois chalereux et reconfortant
   - J'ai aimée la disposition de l'oeuvre (l'espacement/la distance entre chaque cadre)
-  -  
+    
  
 
 - ASPECT QUE VOUS NE SOUHAITERIEZ PAS RETENIR POUR VOS PROPRES CRÉATIONS: 
   - J'aurais évitée de placer d'autres oeuvres similaires aussi proches  
+  - J'aurais placée le cartel plus proche de l'oeuvre et fait attention à ce qu'on distingue bien quel nom appartient à laquel de ces oeuvres qui forme une création
 
