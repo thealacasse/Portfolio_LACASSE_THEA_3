@@ -26,26 +26,23 @@ Le concours Luminothérapie est le plus important au Québec en matière d’ins
 Impulsion fait vivre une expérience interactive de sons et de lumières. Elle présente une série de 9 grandes bascules dont l’intensité lumineuse et les tonalités varient lorsque vous les mettez en mouvement. À partir de cet instrument urbain, participez à la création d’un environnement éphémère sans cesse renouvelé. Impulsion reprend des concepts du sérialisme, technique fondée sur la répétition d’éléments musicaux et leur variation, pour créer des zones d’intensité et de calme.
 
 
-### _Urban Dreams_ 
-Anadol offre de nouvelles perspectives sur les possibilités de représentation qui émergent à l'intersection de la technologie avancée, de la mémoire urbaine et l'art contemporain. L'œuvre utilise plus de 100 millions d'images provenant des villes de New York et Berlin, en se concentrant plus particulièrement sur les espaces publics typiques. Le contenu est utilisé pour former un StyleGAN2 à l'identification et à l'apprentissage des motifs cachés dans le paysage urbain, en montrant comment le processus insaisissable de récupération de la mémoire se transforme en données les collections. 
-  
-### _Nature Dreams_
-Une série d'expériences de réalité synesthésique basée sur le style GAN 2 utilisant plus de 69 millions d'images des parcs nationaux, de l'Islande et d'autres merveilles naturelles pour former un modèle générateur de la machine pour rêver des éléments les plus fascinants de notre Mère Nature. Cette transformation des données devient non seulement un moyen de visualiser l'information, mais aussi une transmutation de notre désir de faire l'expérience de la nature en un visuel poétique.
-
 ## EXPLICATION SUR LA MISE EN ESPACE DE L'OEUVRE
-- L'oeuvre est esxposé dans une pièce sombre avec d'autres oeuvres à l'entour. Placé sur un grand mur noir, la création est étallée sur un bon 5 mètres environ de mémoire
+- L'oeuvre est esxposé sur une assez grande distance, dans le centre du quartier des spectacles et juste à côté de la patinoir illuminée.
+- Chaque balance est a 
 
 # Voici le croquis de l'oeuvre vue de haut
 
 ![croqui](medias/IMG_1152.jpg)
 
 ## Liste des composantes et techniques de l'oeuvre ou du dispositif 
-- Écran numérique couleur haute définition
+- Lumières DELs
+- Haut-parleurs
+> *L’effet lumineux est obtenu grâce à une série de bandes de DELs qui opèrent sur un protocole de contrôle numérique leur permettant de varier d’intensité lorsque la structure se met à basculer. Activés par ce même mouvement, des haut‐parleurs placés dans la base des bascules émettent des sons localement où les usagers et les spectateurs seront le plus réceptif.*
 
 ## Liste des éléments nécessaires pour la mise en exposition  
-- Du tape noir pour camoufler les fils
-- Tuyau pour couvrir encore une fois les fils 
-- Une pièce sombre pour avoir une meilleure expérience 
+- Prisme; pyramide à base rectangle
+> *Les prismes servent de caches fils pour les LEDs et haut-parleurs afin que les fils ne se fassent pas endommagés par les visiteurs et par le froid/neige de l'hiver.
+> Ces prismes servent aussi de base pour la balancoir, situé au milieu de celle-ci pour qu'elle puisse balancer de haut en bas.* 
 
 
 ![photo couvre fils](medias/IMG_1147.jpg)
