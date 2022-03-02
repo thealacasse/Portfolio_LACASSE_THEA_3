@@ -10,8 +10,9 @@
 
 #### DATE DE LA VISITE : 01/03/2022
 
-## DESCRIPTION 
->#### Ces textes sont tirés du site web de l'exposition International Digital Art Biennial - [Exposition BIAN site web](https://www.elektramontreal.ca/bian2021-refik-anadol?lang=fr)
+## DESCRIPTION - un parcours d'oeuvres lumineuse et interactives
+>#### Ces textes sont tirés du site web de l'exposition Luminothérapie, 12e édition - [Montréal en lumière, LUMINOTHÉRAPIE site web](https://www.quartierdesspectacles.com/fr/evenement/290/luminotherapie-12e-edition/#)
+
 
 ![photo oeuvre](medias/photo1.png)
 
