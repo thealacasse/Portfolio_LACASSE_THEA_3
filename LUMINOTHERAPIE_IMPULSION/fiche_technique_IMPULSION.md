@@ -10,8 +10,9 @@
 
 #### DATE DE LA VISITE : 01/03/2022
 
-## DESCRIPTION - un parcours d'oeuvres lumineuse et interactives
+## À PROPOS LUMINOTHÉRAPIE - un parcours d'oeuvres lumineuse et interactives
 >#### Ces textes sont tirés du site web de l'exposition Luminothérapie, 12e édition - [Montréal en lumière, LUMINOTHÉRAPIE site web](https://www.quartierdesspectacles.com/fr/evenement/290/luminotherapie-12e-edition/#)
+Le concours Luminothérapie est le plus important au Québec en matière d’installations temporaires destinées à l’espace public. Chaque année, il propose une expérience hivernale originale, interactive et captivante dans le Quartier des spectacles de Montréal avec une installation à grand déploiement sur la place des Festivals. En 2020 et 2021, des éditions spéciales ont pris place dans le Quartier, avec un parcours d’œuvres et un moment son et lumière pour une expérience étendue. Luminothérapie vise à stimuler la créativité dans le domaine des installations urbaines et de l’art numérique. Plusieurs quartiers culturels dans le monde manifestent de l’intérêt pour ces installations d’art participatif et interactif créées pour l’espace public, par des artistes et créateurs d’ici. Depuis 2016, 12 œuvres créées pour le Quartier des spectacles ont été présentées à près de 100 reprises dans plus de 50 villes canadiennes et étrangères. 
 
 
 ![photo oeuvre](medias/photo1.png)
