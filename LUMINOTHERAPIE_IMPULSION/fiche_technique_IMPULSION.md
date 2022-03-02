@@ -17,7 +17,8 @@ Le concours Luminothérapie est le plus important au Québec en matière d’ins
 
 ![photo oeuvre](medias/274754793_1164574297413669_4054563768481923679_n.jpg)
 
-### _Space Dreams_ 
+## DESCRIPTION - Impulsion
+>#### Ces textes sont tirés du site web de l'exposition Luminothérapie, 12e édition, Impulsion - [Impulsion, LUMINOTHÉRAPIE site web](https://www.quartierdesspectacles.com/fr/a-propos/les-productions-du-partenariat/oeuvre/2/impulsion-par-lateral-office-cs-design-en-collaboration-avec-egp-group/#)
 Transforme un vaste ensemble de données de 1,2 million d'images capturées à partir de la station spatiale internationale (ISS), ainsi que des images satellites supplémentaires des topologies de la Terre, en un tableau de données dynamiques. Chaque version du rêve de la machine est dérivée d'une marche latente différente du réseau antagoniste génératif (GAN), explorant la capacité de l'intelligence artificielle à atteindre son propre subconscient et offrant une forme d'esthétique cartographique d'avant-garde.
   
 ### _Urban Dreams_ 
