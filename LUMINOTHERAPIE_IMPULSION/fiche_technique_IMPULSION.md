@@ -45,10 +45,9 @@ Impulsion fait vivre une expérience interactive de sons et de lumières. Elle p
 >
 >*Ces prismes servent aussi de base pour la balancoir, situé au milieu de celle-ci pour qu'elle puisse balancer de haut en bas.* 
 
-![Photo prisme](
+![Photo prisme](medias/274787444_328328499319415_6053284056663834066_n.jpg)
 
 
-![photo couvre fils](medias/IMG_1147.jpg)
 
 ## EXPÉRIENCE VÉCUE:
 
