@@ -57,9 +57,9 @@ Impulsion fait vivre une expérience interactive de sons et de lumières. Elle p
   - Il y avait beaucoup de personne le soir que je suis allée et je ne vais pas vous mentir en vous disant que c'était simple de se trouver une place pour les esayer.
   - C'était un beau moment entrendre les enfants rires et l'amusement que procurait les balances.
   - Il y avait une belle ambiance, de la musique et surtout plein de lumière
-  ![gif_balances](
   
-  ![video oeuvre](medias/IMG_0451_AdobeCreativeCloudExpress.gif)
+  ![gif_balances](medias/video-1646249487_AdobeCreativeCloudExpress.gif)
+  
 
 - CE QUE J'AI LE PLUS AIMÉE:
   - J'ai vraiment aimée les couleurs choisi dans l'oeuvre, elles forment une harmonie qui rend le tout à la fois chalereux et reconfortant
