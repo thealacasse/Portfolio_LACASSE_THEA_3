@@ -3,12 +3,12 @@
 >## *LATERAL OFFICE et CS Design, collaboration avec EGP Group, conception sonore; Mitchell Akiyama, fabrication; Generique Design, présenté pour la première fois en 2017* 
 
 
-### 5th International Digital Art Biennial, Arsenal Contemporary Art Montreal *11/19/2021 - 01/02/2022*
+### Luminothérapie, 12e édition | Quartier des spectacles, Montréal *02/12/2021 - 06/03/2022*
 
 
 
 
-#### DATE DE LA VISITE : 10/02/2022
+#### DATE DE LA VISITE : 01/03/2022
 
 ## DESCRIPTION 
 >#### Ces textes sont tirés du site web de l'exposition International Digital Art Biennial - [Exposition BIAN site web](https://www.elektramontreal.ca/bian2021-refik-anadol?lang=fr)
