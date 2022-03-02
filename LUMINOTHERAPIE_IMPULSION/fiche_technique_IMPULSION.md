@@ -54,8 +54,10 @@ Impulsion fait vivre une expérience interactive de sons et de lumières. Elle p
 ## EXPÉRIENCE VÉCUE:
 
 - DESCRIPTION DE VOTRE EXPÉRIENCE DE L'OEUVRE: 
-  - Il y a énormément (on parle de plus d'un million) de minuscules micros-images qui se déplacent en même temps qui créent une sorte de mouvement très fluide, voir presque hypnotisant
-  - Un mouvement avec de la profondeur créée avec des images 2D est assez impressionnant à voir, nous avions le goût d'aller nager dans l'oeuvre
+  - Il y avait beaucoup de personne le soir que je suis allée et je ne vais pas vous mentir en vous disant que c'était simple de se trouver une place pour les esayer.
+  - C'était un beau moment entrendre les enfants rires et l'amusement que procurait les balances.
+  - Il y avait une belle ambiance, de la musique et surtout plein de lumière
+  ![gif_balances](
   
   ![video oeuvre](medias/IMG_0451_AdobeCreativeCloudExpress.gif)
 
