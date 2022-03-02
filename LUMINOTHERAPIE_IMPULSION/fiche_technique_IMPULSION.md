@@ -15,7 +15,7 @@
 Le concours Luminothérapie est le plus important au Québec en matière d’installations temporaires destinées à l’espace public. Chaque année, il propose une expérience hivernale originale, interactive et captivante dans le Quartier des spectacles de Montréal avec une installation à grand déploiement sur la place des Festivals. En 2020 et 2021, des éditions spéciales ont pris place dans le Quartier, avec un parcours d’œuvres et un moment son et lumière pour une expérience étendue. Luminothérapie vise à stimuler la créativité dans le domaine des installations urbaines et de l’art numérique. Plusieurs quartiers culturels dans le monde manifestent de l’intérêt pour ces installations d’art participatif et interactif créées pour l’espace public, par des artistes et créateurs d’ici. Depuis 2016, 12 œuvres créées pour le Quartier des spectacles ont été présentées à près de 100 reprises dans plus de 50 villes canadiennes et étrangères. 
 
 
-![photo oeuvre](medias/photo1.png)
+![photo oeuvre](medias/274754793_1164574297413669_4054563768481923679_n.jpg)
 
 ### _Space Dreams_ 
 Transforme un vaste ensemble de données de 1,2 million d'images capturées à partir de la station spatiale internationale (ISS), ainsi que des images satellites supplémentaires des topologies de la Terre, en un tableau de données dynamiques. Chaque version du rêve de la machine est dérivée d'une marche latente différente du réseau antagoniste génératif (GAN), explorant la capacité de l'intelligence artificielle à atteindre son propre subconscient et offrant une forme d'esthétique cartographique d'avant-garde.
