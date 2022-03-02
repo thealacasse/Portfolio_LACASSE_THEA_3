@@ -25,6 +25,8 @@ Le concours Luminothérapie est le plus important au Québec en matière d’ins
 >#### Ces textes sont tirés du site web de l'exposition Luminothérapie, 12e édition, Impulsion - [Impulsion, LUMINOTHÉRAPIE site web](https://www.quartierdesspectacles.com/fr/a-propos/les-productions-du-partenariat/oeuvre/2/impulsion-par-lateral-office-cs-design-en-collaboration-avec-egp-group/#)
 Impulsion fait vivre une expérience interactive de sons et de lumières. Elle présente une série de 9 grandes bascules dont l’intensité lumineuse et les tonalités varient lorsque vous les mettez en mouvement. À partir de cet instrument urbain, participez à la création d’un environnement éphémère sans cesse renouvelé. Impulsion reprend des concepts du sérialisme, technique fondée sur la répétition d’éléments musicaux et leur variation, pour créer des zones d’intensité et de calme.
 
+![gif impulsion](
+
 
 ## EXPLICATION SUR LA MISE EN ESPACE DE L'OEUVRE
 - L'oeuvre est esxposé sur une assez grande distance, dans le centre du quartier des spectacles et juste à côté de la patinoir illuminée.
