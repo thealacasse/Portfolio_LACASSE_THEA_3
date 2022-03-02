@@ -41,8 +41,9 @@ Impulsion fait vivre une expérience interactive de sons et de lumières. Elle p
 
 ## Liste des éléments nécessaires pour la mise en exposition  
 - Prisme; pyramide à base rectangle
-> *Les prismes servent de caches fils pour les LEDs et haut-parleurs afin que les fils ne se fassent pas endommagés par les visiteurs et par le froid/neige de l'hiver.
-> Ces prismes servent aussi de base pour la balancoir, situé au milieu de celle-ci pour qu'elle puisse balancer de haut en bas.* 
+> *Les prismes servent de caches fils pour les LEDs et haut-parleurs afin que les fils ne se fassent pas endommagés par les visiteurs et par le froid/neige de l'hiver.*
+>
+>*Ces prismes servent aussi de base pour la balancoir, situé au milieu de celle-ci pour qu'elle puisse balancer de haut en bas.* 
 
 
 ![photo couvre fils](medias/IMG_1147.jpg)
