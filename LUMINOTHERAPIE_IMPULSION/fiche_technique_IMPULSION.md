@@ -62,5 +62,9 @@ Impulsion fait vivre une expérience interactive de sons et de lumières. Elle p
   
 
 - CE QUE J'AI LE PLUS AIMÉE:
-  - J'ai vraiment aimée les couleurs choisi dans l'oeuvre, elles forment une harmonie qui rend le tout à la fois chalereux et reconfortant
-  - J'ai aimée la disposition de l'oeuvre (l'espacement/la distance entre chaque cadre)
+  - Les balances sont bien espacés et donc tu n'as pas l'impression d'être collé à tous le monde, ce qui est parfait pour la situation dans laquelle on vit en ce moment. 
+
+
+- ASPECT QUE VOUS NE SOUHAITERIEZ PAS RETENIR POUR VOS PROPRES CRÉATIONS: 
+  - J'aurais évitée de placer d'autres oeuvres similaires aussi proches  
+  - J'aurais placée le cartel plus proche de l'oeuvre et fait attention à ce qu'on distingue bien quel nom appartient à laquel de ces oeuvres qui forme une création
