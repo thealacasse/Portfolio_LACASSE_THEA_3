@@ -69,5 +69,6 @@ Impulsion fait vivre une expérience interactive de sons et de lumières. Elle p
 
 
 - ASPECT QUE VOUS NE SOUHAITERIEZ PAS RETENIR POUR VOS PROPRES CRÉATIONS: 
-  - J'aurais évitée de placer d'autres oeuvres similaires aussi proches  
-  - J'aurais placée le cartel plus proche de l'oeuvre et fait attention à ce qu'on distingue bien quel nom appartient à laquel de ces oeuvres qui forme une création
+  - De ce que j'ai pu lire, l'oeuvre est sensée être une exposition avec des jeux de son et de lumières, cependant, puisque c'est un petit festival, il y avait de la musique assez forte pour mettre les gens dans une bonne ambiance, mais à cause de cette musique, je n'ai même pas pu entendre le jeu musical des balances lorsqu'elles étaient en action.
+  
+  > Donc, ce que je proposerais pour bien profiter de l'exposition et tout ses aspects, je diminurais le son de la musique dans la partie des balances pour être sur que l'on enetend bien le son.
