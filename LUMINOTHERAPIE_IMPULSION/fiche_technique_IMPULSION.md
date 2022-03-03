@@ -32,9 +32,12 @@ Impulsion fait vivre une expérience interactive de sons et de lumières. Elle p
 - L'oeuvre est esxposé sur une assez grande distance, dans le centre du quartier des spectacles et juste à côté de la patinoir illuminée.
 - Chaque balance est a 
 
-# Voici le plan de l'exposition de Luminothérapie
+## Voici le plan de l'exposition de Luminothérapie
 
 ![plan_luminothérapie](medias/IMG_1520.jpg)
+
+## Voici le croquis de l'oeuvre Impulsion vue de haut
+![croqui](
 
 ## Liste des composantes et techniques de l'oeuvre ou du dispositif 
 - Lumières DELs
