@@ -62,9 +62,10 @@ Catherine Béchard et Sabin Hudon apparaissent ainsi comme des artistes à la qu
 - CE QUE J'AI LE PLUS AIMÉE:
  - L'oeuvre n'avais pas de sons inclu, mais le fait qu'elle soit placée juste à côté d'une autre oeuvre qi elle, ayant une bande sonor, faisait en sorte qu'on pouvait observé la projection tout en écoutant les sons de l'autre oeuvre ce qui créeait un tout assez majestueux.
  - J'ai vraiment aimé le fait que l'espace était spacieuse, puisque tu te sentais absorbé dans l'oeuvre, seule au monde et comme si tu étais hypnotisé par celle-ci. C'était relaxant et appaisant ce qui faisait vraiment du bien à l'esprit.
+ - J'ai aimé que les petits cartels soit loin de son oeuvre, mais bien placé pour que l'on sache à qui appartient quoi. On pouvait laisser notre imagination aller et se créer des hypothèses sur quoi est le messages de l'oeuvre ou bien qu'est-ce que c'est sensé représenté, sans se faire donner la réponse tout de suite.
 
 
 - ASPECT QUE VOUS NE SOUHAITERIEZ PAS RETENIR POUR VOS PROPRES CRÉATIONS: 
-  - Honnêtement, je n'ai aucun point négatif à dire sur cette exposition.
+  - Honnêtement, je n'ai aucun point négatif à dire sur cette exposition. La mise en place, la projection, les sons, les lumières, tout était selon moi, parfait. Ce n'était pas trop charger d'oeuvres et nous pouvions prendre le temps pour bien observer chaque oeuvre une à la fois et ce, sans se dépêcher pour aller voir toute les oeuvres.
   
-  > Donc, ce que je proposerais pour bien profiter de l'exposition et tout ses aspects, je diminurais le son de la musique dans la partie des balances pour être sur que l'on enetend bien le son.
+
