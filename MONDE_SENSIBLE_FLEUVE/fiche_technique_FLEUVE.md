@@ -53,17 +53,18 @@ Catherine Béchard et Sabin Hudon apparaissent ainsi comme des artistes à la qu
 
 - DESCRIPTION DE VOTRE EXPÉRIENCE DE L'OEUVRE: 
   - L'oeuvre était dans le fond de la pièce et donc, nous ne pouvions pas la voir directement. Nous rentrions, puis ce n'est q'en traversant une autre oeuvre que nous pouvons appercevoir cette projection.
-  - L'espace était spacieuse nous pouvions donc, s'asseoir, se coucher ou rester debout si on voulait pour contempler l'oeuvre. La projection peut être vue sous plusieurs angles et percpectives. Certains voyaient un fleuve et d'autres pouvaient voir des sortes de filaments, comme des ondes. 
+  - L'espace était spacieuse nous pouvions donc, s'asseoir, se coucher ou rester debout si on voulait pour contempler l'oeuvre. La projection peut être vue sous plusieurs angles et percpectives. Certains voyaient un fleuve, d'autres pouvaient voir des sortes de filaments, comme des ondes et d"autres disait voir une sorte de portail vue au fait que les vidéos soient placées verticalement.
   - La pièce était sombre et alors la projection était super clair.
   
   ![gif_balances](medias/video-1646249487_AdobeCreativeCloudExpress.gif)
   
 
 - CE QUE J'AI LE PLUS AIMÉE:
- - L'oeuvre n'avais pas de sons inclu, mais le fait qu'elle soit placée juste à côté d'une autre oeuvre qi elle, ayant une bande sonor, faisait en sorte qu'on pouvait observé la projection tout en écoutant les sons de l'autre oeuvre 
+ - L'oeuvre n'avais pas de sons inclu, mais le fait qu'elle soit placée juste à côté d'une autre oeuvre qi elle, ayant une bande sonor, faisait en sorte qu'on pouvait observé la projection tout en écoutant les sons de l'autre oeuvre ce qui créeait un tout assez majestueux.
+ - J'ai vraiment aimé le fait que l'espace était spacieuse, puisque tu te sentais absorbé dans l'oeuvre, seule au monde et comme si tu étais hypnotisé par celle-ci. C'était relaxant et appaisant ce qui faisait vraiment du bien à l'esprit.
 
 
 - ASPECT QUE VOUS NE SOUHAITERIEZ PAS RETENIR POUR VOS PROPRES CRÉATIONS: 
-  - De ce que j'ai pu lire, l'oeuvre est sensée être une exposition avec des jeux de son et de lumières, cependant, puisque c'est un petit festival, il y avait de la musique assez forte pour mettre les gens dans une bonne ambiance, mais à cause de cette musique, je n'ai même pas pu entendre le jeu musical des balances lorsqu'elles étaient en action.
+  - Honnêtement, je n'ai aucun point négatif à dire sur cette exposition.
   
   > Donc, ce que je proposerais pour bien profiter de l'exposition et tout ses aspects, je diminurais le son de la musique dans la partie des balances pour être sur que l'on enetend bien le son.
