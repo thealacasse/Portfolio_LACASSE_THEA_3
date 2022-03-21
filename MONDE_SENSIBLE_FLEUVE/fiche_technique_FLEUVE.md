@@ -53,7 +53,10 @@ Catherine Béchard et Sabin Hudon apparaissent ainsi comme des artistes à la qu
   - L'espace était spacieuse nous pouvions donc, s'asseoir, se coucher ou rester debout si on voulait pour contempler l'oeuvre. La projection peut être vue sous plusieurs angles et percpectives. Certains voyaient un fleuve, d'autres pouvaient voir des sortes de filaments, comme des ondes et d"autres disait voir une sorte de portail vue au fait que les vidéos soient placées verticalement.
   - La pièce était sombre et alors la projection était super clair.
   
-  ![gif_balances](medias/video-1646249487_AdobeCreativeCloudExpress.gif)
+  ![salle](medias/salle.png)
+
+
+
   
 
 - CE QUE J'AI LE PLUS AIMÉE:
