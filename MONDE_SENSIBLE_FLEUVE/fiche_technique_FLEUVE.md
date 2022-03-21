@@ -43,7 +43,7 @@ Catherine Béchard et Sabin Hudon apparaissent ainsi comme des artistes à la qu
 - Projecteur
 - Cables et tyrap pour tenir et camouffler les fils au plafond
 
-![projecteur_gif](medias/lefleuve_projecteur_AdobeCreativeCloudExpress.gif)
+![projecteur_gif](medias/fleuve_projecteur.gif)
 
 
 
