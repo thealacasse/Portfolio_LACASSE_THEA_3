@@ -3,7 +3,7 @@
 >## *Catherine Béchard et Sabin Hudon, 2021* 
 
 
-### Luminothérapie, 12e édition | Quartier des spectacles, Montréal *02/12/2021 - 06/03/2022*
+### Monde sensible | Maison des Arts, Laval *20/02/2022 - 06/03/2022*
 
 
 
