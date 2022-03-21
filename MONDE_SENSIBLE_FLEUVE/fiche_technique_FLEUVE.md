@@ -30,7 +30,7 @@ Catherine Béchard et Sabin Hudon apparaissent ainsi comme des artistes à la qu
 
 
 ## Voici le croquis de l'oeuvre Le fleuve, 50˚11'53,8"N.,66˚4'10"O. vue de haut
-![croqui](
+![croqui](croquis/croquis_fleuve.jpg)
 
 ## Liste des composantes et techniques de l'oeuvre ou du dispositif 
 - Projecteur (au plafond)
