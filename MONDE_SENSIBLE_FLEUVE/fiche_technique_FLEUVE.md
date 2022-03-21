@@ -3,12 +3,12 @@
 >## *Catherine Béchard et Sabin Hudon, 2021* 
 
 
-### Monde sensible | Maison des Arts, Laval *20/02/2022 - 06/03/2022*
+### Monde sensible | Maison des Arts, Laval *02/20/2022 - 06/16/2022*
 
 
 
 
-#### DATE DE LA VISITE : 01/03/2022
+#### DATE DE LA VISITE : 17/03/2022
 
 ## À PROPOS LUMINOTHÉRAPIE - un parcours d'oeuvres lumineuse et interactives
 >#### Ces textes sont tirés du site web de l'exposition Luminothérapie, 12e édition - [Montréal en lumière, LUMINOTHÉRAPIE site web](https://www.quartierdesspectacles.com/fr/evenement/290/luminotherapie-12e-edition/#)
