@@ -11,7 +11,7 @@
 #### DATE DE LA VISITE : 17/03/2022
 
 ## À PROPOS DE L'EXPOSITION MONDE SENSIBLE - les sens et émotions
->#### Ces textes sont tirés du site web de l'exposition du Monde sensible - [Monde sensible site web](https://www.laval.ca/Pages/Fr/Calendrier/mda-expo-bechard-hudon.aspx)
+>#### Ces textes sont tirés du site web de l'exposition de la Maison des Arts de Laval - [Monde sensible site web](https://www.laval.ca/Pages/Fr/Calendrier/mda-expo-bechard-hudon.aspx)
 
 Depuis plus de 20 ans, le duo Béchard Hudon sonde la charge tant physique que sociale des résonances acoustiques à travers des œuvres installatives sonores et sculpturales qui appellent l'écoute attentive et l'observation dans la durée. L'exposition Configurations du sensible présente leurs plus récentes productions, entre autres la série Mécanismes de dessaisissement (2019-2020), composée de 3 sculptures murales géométriques et cinétiques au fort potentiel vibratoire, et L'en deçà (2021), une imposante structure en bois aux consonances architecturales interagissant avec le public à travers de profondes modulations sonores. Si cette dernière pièce met de l'avant le paysage acoustique et tellurique de différents milieux naturels où le duo a mené des recherches de fond, d'autres œuvres misent sur des variations optiques qui témoignent implicitement d'une volonté de bousculer certains paradigmes sociaux afin de repenser nos manières de voir et d'agir. Dans l'ensemble, l'exposition convie à une réflexion sur « l'épaisseur du présent », entendu par la philosophe Isabelle Stengers comme l'expérience d'un temps non euclidien et non linéaire qui contribue à déconstruire les grandes divisions binaires. — A. S.
 
