@@ -3,7 +3,7 @@
 >## *Catherine Béchard et Sabin Hudon, 2021* 
 
 
-### Monde sensible | Maison des Arts, Laval *02/20/2022 - 04/16/2022*
+### Monde sensible | Maison des Arts, Laval, salle Alfred-Pellan *02/20/2022 - 04/16/2022*
 
 
 
@@ -11,11 +11,9 @@
 #### DATE DE LA VISITE : 17/03/2022
 
 ## À PROPOS DE L'EXPOSITION MONDE SENSIBLE - les sens et émotions
->#### Ces textes sont tirés du site web de l'exposition Luminothérapie, 12e édition - [Montréal en lumière, LUMINOTHÉRAPIE site web](https://www.quartierdesspectacles.com/fr/evenement/290/luminotherapie-12e-edition/#)
+>#### Ces textes sont tirés du site web de l'exposition du Monde sensible - [Monde sensible site web](https://www.laval.ca/Pages/Fr/Calendrier/mda-expo-bechard-hudon.aspx)
 
-Créé en 2003, le Partenariat du Quartier des spectacles est un organisme sans but lucratif qui regroupe plus de 80 membres actifs sur le territoire. Il veille à l’animation du Quartier des spectacles par la programmation d’activités culturelles, la gestion et l’animation des places publiques, la mise en lumière du Quartier et assure sa promotion à titre de destination culturelle incontournable. Le Partenariat bénéficie du soutien de la Ville de Montréal.
-
-Le concours Luminothérapie est le plus important au Québec en matière d’installations temporaires destinées à l’espace public. Chaque année, il propose une expérience hivernale originale, interactive et captivante dans le Quartier des spectacles de Montréal avec une installation à grand déploiement sur la place des Festivals. En 2020 et 2021, des éditions spéciales ont pris place dans le Quartier, avec un parcours d’œuvres et un moment son et lumière pour une expérience étendue. Luminothérapie vise à stimuler la créativité dans le domaine des installations urbaines et de l’art numérique. Plusieurs quartiers culturels dans le monde manifestent de l’intérêt pour ces installations d’art participatif et interactif créées pour l’espace public, par des artistes et créateurs d’ici. Depuis 2016, 12 œuvres créées pour le Quartier des spectacles ont été présentées à près de 100 reprises dans plus de 50 villes canadiennes et étrangères. 
+Depuis plus de 20 ans, le duo Béchard Hudon sonde la charge tant physique que sociale des résonances acoustiques à travers des œuvres installatives sonores et sculpturales qui appellent l'écoute attentive et l'observation dans la durée. L'exposition Configurations du sensible présente leurs plus récentes productions, entre autres la série Mécanismes de dessaisissement (2019-2020), composée de 3 sculptures murales géométriques et cinétiques au fort potentiel vibratoire, et L'en deçà (2021), une imposante structure en bois aux consonances architecturales interagissant avec le public à travers de profondes modulations sonores. Si cette dernière pièce met de l'avant le paysage acoustique et tellurique de différents milieux naturels où le duo a mené des recherches de fond, d'autres œuvres misent sur des variations optiques qui témoignent implicitement d'une volonté de bousculer certains paradigmes sociaux afin de repenser nos manières de voir et d'agir. Dans l'ensemble, l'exposition convie à une réflexion sur « l'épaisseur du présent », entendu par la philosophe Isabelle Stengers comme l'expérience d'un temps non euclidien et non linéaire qui contribue à déconstruire les grandes divisions binaires. — A. S.
 
 
 
