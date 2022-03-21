@@ -1,6 +1,6 @@
 # Le fleuve, 50˚11'53,8"N.,66˚4'10"O.
 
->## *LATERAL OFFICE et CS Design, collaboration avec EGP Group, conception sonore; Mitchell Akiyama, fabrication; Generique Design, présenté pour la première fois en 2017* 
+>## *Catherine Béchard et Sabin Hudon, 2022* 
 
 
 ### Luminothérapie, 12e édition | Quartier des spectacles, Montréal *02/12/2021 - 06/03/2022*
