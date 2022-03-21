@@ -54,13 +54,13 @@ Catherine Béchard et Sabin Hudon apparaissent ainsi comme des artistes à la qu
 - DESCRIPTION DE VOTRE EXPÉRIENCE DE L'OEUVRE: 
   - L'oeuvre était dans le fond de la pièce et donc, nous ne pouvions pas la voir directement. Nous rentrions, puis ce n'est q'en traversant une autre oeuvre que nous pouvons appercevoir cette projection.
   - L'espace était spacieuse nous pouvions donc, s'asseoir, se coucher ou rester debout si on voulait pour contempler l'oeuvre. La projection peut être vue sous plusieurs angles et percpectives. Certains voyaient un fleuve et d'autres pouvaient voir des sortes de filaments, comme des ondes. 
-  - La pièce était sombre et alors la projection était super clair, l'oeuvre n'avais pas de sons inclu, mais le fait qu'elle soit placée juste à côté d'une autre oeuvre avec une bande sonor 
+  - La pièce était sombre et alors la projection était super clair.
   
   ![gif_balances](medias/video-1646249487_AdobeCreativeCloudExpress.gif)
   
 
 - CE QUE J'AI LE PLUS AIMÉE:
-  - Les balances sont bien espacés et donc tu n'as pas l'impression d'être collé à tous le monde, ce qui est parfait pour la situation dans laquelle on vit en ce moment. 
+ - L'oeuvre n'avais pas de sons inclu, mais le fait qu'elle soit placée juste à côté d'une autre oeuvre qi elle, ayant une bande sonor, faisait en sorte qu'on pouvait observé la projection tout en écoutant les sons de l'autre oeuvre 
 
 
 - ASPECT QUE VOUS NE SOUHAITERIEZ PAS RETENIR POUR VOS PROPRES CRÉATIONS: 
