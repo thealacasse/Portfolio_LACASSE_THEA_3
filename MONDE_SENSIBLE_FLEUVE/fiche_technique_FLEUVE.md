@@ -53,7 +53,7 @@ Catherine Béchard et Sabin Hudon apparaissent ainsi comme des artistes à la qu
 
 - DESCRIPTION DE VOTRE EXPÉRIENCE DE L'OEUVRE: 
   - L'oeuvre était dans le fond de la pièce et donc, nous ne pouvions pas la voir directement. Nous rentrions, puis ce n'est q'en traversant une autre oeuvre que nous pouvons appercevoir cette projection.
-  - C'était un beau moment entrendre les enfants rires et l'amusement que procurait les balances.
+  - C'était espacieux et nous pouvions donc s'asseoir, se coucher ou rester debout si on voulait pour contempler l'oeuvre. La projection peut être vue sous plusieurs angles et percpectives 
   - Il y avait une belle ambiance, de la musique et surtout plein de lumière
   
   ![gif_balances](medias/video-1646249487_AdobeCreativeCloudExpress.gif)
