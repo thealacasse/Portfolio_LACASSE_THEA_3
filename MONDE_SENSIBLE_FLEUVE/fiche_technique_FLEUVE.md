@@ -22,7 +22,7 @@ La troisième œuvre est une projection vidéo présentée en une boucle qui fai
 
 Catherine Béchard et Sabin Hudon apparaissent ainsi comme des artistes à la quête de ce qui se meut. Persuadés que le mouvement doit être représenté et investigué, ils en traquent les manifestations dans tout ce qui peut bien être de semblable nature ondulatoire. En cette occasion, ce sont à travers figures essentielles, ondes sonores et flots continus de l’aqueux qui font l’objet de leur attention. Car il doit bien y avoir quelque chose à tirer du mouvement. Se mouvoir est tout de même une manière des corps d’habiter l’espace dans le temps.
 
-![photo oeuvre](medias/leFleuve.png)
+![photo oeuvre]
 
 
 ## EXPLICATION SUR LA MISE EN ESPACE DE L'OEUVRE
@@ -60,9 +60,9 @@ Catherine Béchard et Sabin Hudon apparaissent ainsi comme des artistes à la qu
   
 
 - CE QUE J'AI LE PLUS AIMÉE:
- - L'oeuvre n'avais pas de sons inclu, mais le fait qu'elle soit placée juste à côté d'une autre oeuvre qi elle, ayant une bande sonor, faisait en sorte qu'on pouvait observé la projection tout en écoutant les sons de l'autre oeuvre ce qui créeait un tout assez majestueux.
- - J'ai vraiment aimé le fait que l'espace était spacieuse, puisque tu te sentais absorbé dans l'oeuvre, seule au monde et comme si tu étais hypnotisé par celle-ci. C'était relaxant et appaisant ce qui faisait vraiment du bien à l'esprit.
- - J'ai aimé que les petits cartels soit loin de son oeuvre, mais bien placé pour que l'on sache à qui appartient quoi. On pouvait laisser notre imagination aller et se créer des hypothèses sur quoi est le messages de l'oeuvre ou bien qu'est-ce que c'est sensé représenté, sans se faire donner la réponse tout de suite.
+  - L'oeuvre n'avais pas de sons inclu, mais le fait qu'elle soit placée juste à côté d'une autre oeuvre qi elle, ayant une bande sonor, faisait en sorte qu'on pouvait observé la projection tout en écoutant les sons de l'autre oeuvre ce qui créeait un tout assez majestueux.
+  - J'ai vraiment aimé le fait que l'espace était spacieuse, puisque tu te sentais absorbé dans l'oeuvre, seule au monde et comme si tu étais hypnotisé par celle-ci. C'était relaxant et appaisant ce qui faisait vraiment du bien à l'esprit.
+  - J'ai aimé que les petits cartels soit loin de son oeuvre, mais bien placé pour que l'on sache à qui appartient quoi. On pouvait laisser notre imagination aller et se créer des hypothèses sur quoi est le messages de l'oeuvre ou bien qu'est-ce que c'est sensé représenté, sans se faire donner la réponse tout de suite.
 
 
 - ASPECT QUE VOUS NE SOUHAITERIEZ PAS RETENIR POUR VOS PROPRES CRÉATIONS: 
