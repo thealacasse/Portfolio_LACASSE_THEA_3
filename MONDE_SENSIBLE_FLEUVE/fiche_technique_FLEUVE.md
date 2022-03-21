@@ -29,8 +29,7 @@ Catherine Béchard et Sabin Hudon apparaissent ainsi comme des artistes à la qu
 
 
 ## EXPLICATION SUR LA MISE EN ESPACE DE L'OEUVRE
-- L'oeuvre est esxposé sur une assez grande distance, dans le centre du quartier des spectacles et juste à côté de la patinoir illuminée.
-- Chaque balance est a 
+- L'oeuvre est projeté sur un long mur d'environ 
 
 ## Voici le plan de l'exposition de Luminothérapie
 
@@ -40,9 +39,7 @@ Catherine Béchard et Sabin Hudon apparaissent ainsi comme des artistes à la qu
 ![croqui](medias/IMG_1523.jpg)
 
 ## Liste des composantes et techniques de l'oeuvre ou du dispositif 
-- Lumières DELs
-- Haut-parleurs
-> *L’effet lumineux est obtenu grâce à une série de bandes de DELs qui opèrent sur un protocole de contrôle numérique leur permettant de varier d’intensité lorsque la structure se met à basculer. Activés par ce même mouvement, des haut‐parleurs placés dans la base des bascules émettent des sons localement où les usagers et les spectateurs seront le plus réceptif.*
+- Projecteur (au plafond)
 
 ## Liste des éléments nécessaires pour la mise en exposition  
 - Prisme; pyramide à base rectangle
