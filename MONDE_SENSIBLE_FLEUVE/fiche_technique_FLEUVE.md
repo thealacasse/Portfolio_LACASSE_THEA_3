@@ -22,7 +22,7 @@ La troisième œuvre est une projection vidéo présentée en une boucle qui fai
 
 Catherine Béchard et Sabin Hudon apparaissent ainsi comme des artistes à la quête de ce qui se meut. Persuadés que le mouvement doit être représenté et investigué, ils en traquent les manifestations dans tout ce qui peut bien être de semblable nature ondulatoire. En cette occasion, ce sont à travers figures essentielles, ondes sonores et flots continus de l’aqueux qui font l’objet de leur attention. Car il doit bien y avoir quelque chose à tirer du mouvement. Se mouvoir est tout de même une manière des corps d’habiter l’espace dans le temps.
 
-![photo oeuvre]
+![photo oeuvre](medias/leFleuve.png)
 
 
 ## EXPLICATION SUR LA MISE EN ESPACE DE L'OEUVRE
@@ -34,6 +34,7 @@ Catherine Béchard et Sabin Hudon apparaissent ainsi comme des artistes à la qu
 
 ## Liste des composantes et techniques de l'oeuvre ou du dispositif 
 - Projecteur (au plafond)
+![projecteur](
 
 ## Liste des éléments nécessaires pour la mise en exposition  *************
 - Projecteur
