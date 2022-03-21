@@ -31,9 +31,6 @@ Catherine Béchard et Sabin Hudon apparaissent ainsi comme des artistes à la qu
 ## EXPLICATION SUR LA MISE EN ESPACE DE L'OEUVRE
 - L'oeuvre est projeté sur un long mur d'environ 
 
-## Voici le plan de l'exposition de Luminothérapie
-
-![plan_luminothérapie](medias/IMG_1520.jpg)
 
 ## Voici le croquis de l'oeuvre Impulsion vue de haut
 ![croqui](medias/IMG_1523.jpg)
@@ -55,7 +52,7 @@ Catherine Béchard et Sabin Hudon apparaissent ainsi comme des artistes à la qu
 ## EXPÉRIENCE VÉCUE:
 
 - DESCRIPTION DE VOTRE EXPÉRIENCE DE L'OEUVRE: 
-  - Il y avait beaucoup de personne le soir que je suis allée et je ne vais pas vous mentir en vous disant que c'était simple de se trouver une place pour les esayer.
+  - L'oeuvre était dans le fond de la pièce et donc, nous ne pouvions pas la voir directement. Nous rentrions, puis ce n'est q'en traversant une autre oeuvre que nous pouvons appercevoir cette projection.
   - C'était un beau moment entrendre les enfants rires et l'amusement que procurait les balances.
   - Il y avait une belle ambiance, de la musique et surtout plein de lumière
   
