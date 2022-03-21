@@ -34,7 +34,10 @@ Catherine Béchard et Sabin Hudon apparaissent ainsi comme des artistes à la qu
 
 ## Liste des composantes et techniques de l'oeuvre ou du dispositif 
 - Projecteur (au plafond)
-![projecteur](
+
+
+
+![projecteur](medias/projecteur.png)
 
 ## Liste des éléments nécessaires pour la mise en exposition  *************
 - Projecteur
