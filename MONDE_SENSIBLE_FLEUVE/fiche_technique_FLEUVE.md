@@ -29,8 +29,8 @@ Catherine Béchard et Sabin Hudon apparaissent ainsi comme des artistes à la qu
 - L'oeuvre est projeté sur un long mur d'environ 
 
 
-## Voici le croquis de l'oeuvre Impulsion vue de haut
-![croqui](medias/IMG_1523.jpg)
+## Voici le croquis de l'oeuvre Le fleuve, 50˚11'53,8"N.,66˚4'10"O. vue de haut
+![croqui](
 
 ## Liste des composantes et techniques de l'oeuvre ou du dispositif 
 - Projecteur (au plafond)
