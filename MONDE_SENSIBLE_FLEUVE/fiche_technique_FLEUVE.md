@@ -1,6 +1,6 @@
 # Le fleuve, 50˚11'53,8"N.,66˚4'10"O.
 
->## *Catherine Béchard et Sabin Hudon, 2022* 
+>## *Catherine Béchard et Sabin Hudon, 2021* 
 
 
 ### Luminothérapie, 12e édition | Quartier des spectacles, Montréal *02/12/2021 - 06/03/2022*
