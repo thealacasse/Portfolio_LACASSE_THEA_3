@@ -41,8 +41,9 @@ Catherine Béchard et Sabin Hudon apparaissent ainsi comme des artistes à la qu
 ## Liste des composantes et techniques de l'oeuvre ou du dispositif 
 - Projecteur (au plafond)
 
-## Liste des éléments nécessaires pour la mise en exposition  
-- Prisme; pyramide à base rectangle
+## Liste des éléments nécessaires pour la mise en exposition  *************
+- Projecteur
+- 
 > *Les prismes servent de caches fils pour les LEDs et haut-parleurs afin que les fils ne se fassent pas endommagés par les visiteurs et par le froid/neige de l'hiver.*
 >
 >*Ces prismes servent aussi de base pour la balancoir, situé au milieu de celle-ci pour qu'elle puisse balancer de haut en bas.* 
