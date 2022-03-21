@@ -3,14 +3,14 @@
 >## *Catherine Béchard et Sabin Hudon, 2021* 
 
 
-### Monde sensible | Maison des Arts, Laval *02/20/2022 - 06/16/2022*
+### Monde sensible | Maison des Arts, Laval *02/20/2022 - 04/16/2022*
 
 
 
 
 #### DATE DE LA VISITE : 17/03/2022
 
-## À PROPOS LUMINOTHÉRAPIE - un parcours d'oeuvres lumineuse et interactives
+## À PROPOS DE L'EXPOSITION MONDE SENSIBLE - les sens et émotions
 >#### Ces textes sont tirés du site web de l'exposition Luminothérapie, 12e édition - [Montréal en lumière, LUMINOTHÉRAPIE site web](https://www.quartierdesspectacles.com/fr/evenement/290/luminotherapie-12e-edition/#)
 
 Créé en 2003, le Partenariat du Quartier des spectacles est un organisme sans but lucratif qui regroupe plus de 80 membres actifs sur le territoire. Il veille à l’animation du Quartier des spectacles par la programmation d’activités culturelles, la gestion et l’animation des places publiques, la mise en lumière du Quartier et assure sa promotion à titre de destination culturelle incontournable. Le Partenariat bénéficie du soutien de la Ville de Montréal.
