@@ -39,7 +39,9 @@ L’horloge de l’apocalypse représente la ligne du temps de l’humanité. Se
 ![croqui](croquis/croquis_fleuve.jpg)
 
 ## Liste des composantes et techniques de l'oeuvre ou du dispositif 
-- Projecteur (au plafond)
+- 3 projecteur (au plafond), 1 qui projète sur le mur de droit, un sur le mur de gauche, puis une sur le mur d'en face
+- 1 lumière qui éclairait l'horloge et le téléphone
+- 4 haut-parleurs accroché dans chaque coin de la pièce
 
 
 
