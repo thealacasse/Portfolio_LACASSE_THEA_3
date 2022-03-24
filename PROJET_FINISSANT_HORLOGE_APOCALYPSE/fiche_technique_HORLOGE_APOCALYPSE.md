@@ -64,7 +64,8 @@ L’horloge de l’apocalypse représente la ligne du temps de l’humanité. Se
   
 
 - CE QUE J'AI LE PLUS AIMÉE:
-  - Le fait que l'oeuvre soit mis-à-part des autres fait vraiment une grande différence surtout niveau sonor. C'est comme si je rentrais dans un petit cinéma et qu'il fallait activé quelque chose pour regarder le film
+  - Le fait que l'oeuvre soit mis-à-part des autres fait vraiment une grande différence surtout niveau sonore. Le tempo du son était super bien fait et j'avais l'impression de ne plus être à l'école. C'est comme si je rentrais dans un petit cinéma et qu'il fallait activé quelque chose pour regarder le film. J'ai aimé ça parce que j'ai pu expérimenté l'expérience à fond et ressentir des émotions à chaque fois que quelque chose de différence ce passait.
+  - 
 
 
 - ASPECT QUE VOUS NE SOUHAITERIEZ PAS RETENIR POUR VOS PROPRES CRÉATIONS: 
