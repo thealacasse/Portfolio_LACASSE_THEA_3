@@ -35,7 +35,7 @@ L’horloge de l’apocalypse représente la ligne du temps de l’humanité. Se
 
 
 
-## Voici le croquis de l'oeuvre Le fleuve, 50˚11'53,8"N.,66˚4'10"O. vue de haut
+## Voici le croquis de l'oeuvre L'Horloge de l'Apocalypse
 ![croqui](croquis/croquis_fleuve.jpg)
 
 ## Liste des composantes et techniques de l'oeuvre ou du dispositif 
