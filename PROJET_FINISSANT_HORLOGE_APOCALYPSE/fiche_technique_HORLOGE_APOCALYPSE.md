@@ -38,11 +38,46 @@ L’horloge de l’apocalypse représente la ligne du temps de l’humanité. Se
 ## Voici le croquis de l'oeuvre L'Horloge de l'Apocalypse
 ![croqui](croquis/croquis_fleuve.jpg)
 
-## Liste des composantes et techniques de l'oeuvre ou du dispositif 
-- 3 projecteur (au plafond), 1 qui projète sur le mur de droit, un sur le mur de gauche, puis une sur le mur d'en face
-- 1 lumière qui éclairait l'horloge et le téléphone
-- 4 haut-parleurs accroché dans chaque coin de la pièce
+## Liste des composantes de l'oeuvre ou du dispositif 
+>#### Ces textes sont tirés du site web des projets des finissants TIM 2022 - [L'horloge de l'apocalypse](https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs/web/index.html)
 
+- Audio
+ - 4 haut-parleurs
+ - 8 fils XLR 3
+ - Focusrite carte de son
+
+- Vidéo
+ - 3 projecteurs vidéo lentille ultra wide 0.3
+ - 3 système d'acrochage
+ - 1 caméra Sony a6500
+
+- Lumière
+ - un projecteur de lumière couleur
+ - 2 fils XLR 3 conducteurs de 20'
+ - Console DMX
+ - Interface DMX USB
+ 
+- Électricité
+ - 8 cordons IEC (pour l'alimentation des haut-parleurs)
+ - 2 extensions 3 fiches et 3 conducteurs
+ - 2 multiprise
+
+- Réseau
+ - 5 fils ethernet
+
+
+- Ordinateur
+ - 1 ordinateur de l'école ou 2 si le premier ne suffit pas
+ - 2 micro-contrôleur (Arduino)
+
+
+- Autre
+ - Kit de camera
+ - Kit de detection de présence (capteur de mouvement (kinect) pour le spotlight)
+ - 1 potentiomètre
+ - Toile blanche (pour projection)
+ - 1 bouton
+ - 8 safety
 
 
 ![projecteur](medias/projecteur.png)
