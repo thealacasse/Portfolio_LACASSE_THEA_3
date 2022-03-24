@@ -42,42 +42,42 @@ L’horloge de l’apocalypse représente la ligne du temps de l’humanité. Se
 >#### Ces textes sont tirés du site web des projets des finissants TIM 2022 - [L'horloge de l'apocalypse](https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs/web/index.html)
 
 - Audio
- - 4 haut-parleurs
- - 8 fils XLR 3
- - Focusrite carte de son
+  - 4 haut-parleurs
+  - 8 fils XLR 3
+  - Focusrite carte de son
 
 - Vidéo
- - 3 projecteurs vidéo lentille ultra wide 0.3
- - 3 système d'acrochage
- - 1 caméra Sony a6500
+  - 3 projecteurs vidéo lentille ultra wide 0.3
+  - 3 système d'acrochage
+  - 1 caméra Sony a6500
 
 - Lumière
- - un projecteur de lumière couleur
- - 2 fils XLR 3 conducteurs de 20'
- - Console DMX
- - Interface DMX USB
+  - un projecteur de lumière couleur
+  - 2 fils XLR 3 conducteurs de 20'
+  - Console DMX
+  - Interface DMX USB
  
 - Électricité
- - 8 cordons IEC (pour l'alimentation des haut-parleurs)
- - 2 extensions 3 fiches et 3 conducteurs
- - 2 multiprise
+  - 8 cordons IEC (pour l'alimentation des haut-parleurs)
+  - 2 extensions 3 fiches et 3 conducteurs
+  - 2 multiprise
 
 - Réseau
- - 5 fils ethernet
+  - 5 fils ethernet
 
 
 - Ordinateur
- - 1 ordinateur de l'école ou 2 si le premier ne suffit pas
- - 2 micro-contrôleur (Arduino)
+  - 1 ordinateur de l'école ou 2 si le premier ne suffit pas
+  - 2 micro-contrôleur (Arduino)
 
 
 - Autre
- - Kit de camera
- - Kit de detection de présence (capteur de mouvement (kinect) pour le spotlight)
- - 1 potentiomètre
- - Toile blanche (pour projection)
- - 1 bouton
- - 8 safety
+  - Kit de camera
+  - Kit de detection de présence (capteur de mouvement (kinect) pour le spotlight)
+  - 1 potentiomètre
+  - Toile blanche (pour projection)
+  - 1 bouton
+  - 8 safety
 
 
 ![projecteur](medias/projecteur.png)
