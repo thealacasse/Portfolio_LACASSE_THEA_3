@@ -60,25 +60,11 @@ L’horloge de l’apocalypse représente la ligne du temps de l’humanité. Se
   - Directement quand je suis rentrée dans la pièce je me suis senti dans une autre dimention où il faisait sombre et tout était mystérieux.
   - Je pouvais entendre les différentes bandes-sonore tout autour de moi de la façon dont les haut-parleurs étaient placés et ça a fait en sorte de nous transporter de monde en monde comme si tu faisait partie de l'animation, dans chaque univers présenté.
   - Plus l'heure avancait, plus j'étais impressionée et je pouvais ressentir tout la passion et l'effort mit dans ce travail.
-  - 
-
-
-
-
-
-
-
-  - Le fait que l'oeuvre soit mis-à-part des autres fait vraiment une grande différence autant niveau sonor qu'animation   
-           
-
-
-
+  - Le fait que les univers changeant devenant de plus en plus stressant, avec leur bande-sonore, m'a rendu plus tendue et stressée à chaque fois que je voulais tourner l'aiguille. C'est exactement ce que je voulais ressentir en ayant voir l'exposition et j'ai été royalement servie. 
   
 
 - CE QUE J'AI LE PLUS AIMÉE:
-  - L'oeuvre n'avais pas de sons inclu, mais le fait qu'elle soit placée juste à côté d'une autre oeuvre qi elle, ayant une bande sonor, faisait en sorte qu'on pouvait observé la projection tout en écoutant les sons de l'autre oeuvre ce qui créeait un tout assez majestueux.
-  - J'ai vraiment aimé le fait que l'espace était spacieuse, puisque tu te sentais absorbé dans l'oeuvre, seule au monde et comme si tu étais hypnotisé par celle-ci. C'était relaxant et appaisant ce qui faisait vraiment du bien à l'esprit.
-  - J'ai aimé que les petits cartels soit loin de son oeuvre, mais bien placé pour que l'on sache à qui appartient quoi. On pouvait laisser notre imagination aller et se créer des hypothèses sur quoi est le messages de l'oeuvre ou bien qu'est-ce que c'est sensé représenté, sans se faire donner la réponse tout de suite.
+  - Le fait que l'oeuvre soit mis-à-part des autres fait vraiment une grande différence surtout niveau sonor. C'est comme si je rentrais dans un petit cinéma et qu'il fallait activé quelque chose pour regarder le film
 
 
 - ASPECT QUE VOUS NE SOUHAITERIEZ PAS RETENIR POUR VOS PROPRES CRÉATIONS: 
