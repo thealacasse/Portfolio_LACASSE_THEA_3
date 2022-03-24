@@ -24,7 +24,15 @@ L’horloge de l’apocalypse représente la ligne du temps de l’humanité. Se
 
 
 ## EXPLICATION SUR LA MISE EN ESPACE DE L'OEUVRE
-- L'oeuvre est projeté sur un long mur d'environ 
+- L'oeuvre est dans le petit studio, isolé de toutes les autres oeuvres.
+- Les animations sont projetés sur des rideaux blanc et prennes toutes les murs de la pièce, sauf celui qui est dèrrière nous. INSÉRER VIDEO TOUR PIÈCE
+
+
+- L'horloge tient par un trépied, puis le téléphone est sur un piédestal juste à côté de celle-ci. INSÉRER PHOTO HORLOGE PIÉDESTAL
+
+- La pièce est insonorisé, donc le son des 4 haut-parleur accroché au plafond, dans chaque coin de la pièce, nous donnais l'impression de littéralemnt faire partie de l'animation.  
+- Il y a seulement une seule lumière, placé juste à côté du projecteur qui projète l'animation d'en face, qui illumine l'endroit où on doit se tenir pour faire démarer l'animation. INSÉRER PHOTO PROJECTEUR LUMIÈRE
+
 
 
 ## Voici le croquis de l'oeuvre Le fleuve, 50˚11'53,8"N.,66˚4'10"O. vue de haut
