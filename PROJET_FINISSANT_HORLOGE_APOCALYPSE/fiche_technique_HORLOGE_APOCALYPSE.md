@@ -64,12 +64,12 @@ L’horloge de l’apocalypse représente la ligne du temps de l’humanité. Se
   
 
 - CE QUE J'AI LE PLUS AIMÉE:
-  - Le fait que l'oeuvre soit mis-à-part des autres fait vraiment une grande différence surtout niveau sonore. Le tempo du son était super bien fait et j'avais l'impression de ne plus être à l'école. C'est comme si je rentrais dans un petit cinéma et qu'il fallait activé quelque chose pour regarder le film. J'ai aimé ça parce que j'ai pu expérimenté l'expérience à fond et ressentir des émotions à chaque fois que quelque chose de différence ce passait.
+  - Le fait que l'oeuvre soit mis-à-part des autres fait vraiment une grande différence surtout niveau sonore. Le tempo du son était super bien fait et j'avais l'impression de ne plus être à l'école. C'est comme si je rentrais dans un petit cinéma et qu'il fallait activé quelque chose pour regarder le film. J'ai aimé ça parce que j'ai pu expérimenté l'expérience à fond et ressentir des émotions à chaque fois que quelque chose de différent ce passait et je ne voulais pas que ça arrête, je voulais en voir plus!
   - 
 
 
-- ASPECT QUE VOUS NE SOUHAITERIEZ PAS RETENIR POUR VOS PROPRES CRÉATIONS: 
-  - Honnêtement, je n'ai aucun point négatif à dire sur cette exposition. La mise en place, la projection, les sons, les lumières, tout était selon moi, parfait. Ce n'était pas trop charger d'oeuvres et nous pouvions prendre le temps pour bien observer chaque oeuvre une à la fois et ce, sans se dépêcher pour aller voir toute les oeuvres.
+- ASPECT QUE J'AI MOINS AIMÉE: 
+  - Lorsque l'aiguille atteint l'apocalypse, j'aurais aimé que l'animation soit vraiment plus apocalyptique et qui ressemblerait plus à un univers de l'enfer. J'ai moins aimé que la fin soit la guerre c'était la 
 
 
 ## MON ORDRE DE PRÉFÉRENCE APRÈS LA VISITE
