@@ -57,11 +57,19 @@ L’horloge de l’apocalypse représente la ligne du temps de l’humanité. Se
 ## EXPÉRIENCE VÉCUE:
 
 - DESCRIPTION DE VOTRE EXPÉRIENCE DE L'OEUVRE: 
-  - L'oeuvre était dans le fond de la pièce et donc, nous ne pouvions pas la voir directement. Nous rentrions, puis ce n'est q'en traversant une autre oeuvre que nous pouvons appercevoir cette projection.
-  - L'espace était spacieuse nous pouvions donc, s'asseoir, se coucher ou rester debout si on voulait pour contempler l'oeuvre. La projection peut être vue sous plusieurs angles et percpectives. Certains voyaient un fleuve, d'autres pouvaient voir des sortes de filaments, comme des ondes et d"autres disait voir une sorte de portail vue au fait que les vidéos soient placées verticalement.
-  - La pièce était sombre et alors la projection était super clair.
-  
-  ![gif_lefleuve](medias/lefleuve_AdobeCreativeCloudExpress.gif)   ![salle](medias/salle.png)          
+  - Directement quand je suis rentrée dans la pièce je me suis senti dans une autre dimention où il faisait sombre et tout était mystérieux.
+  - Je pouvais entendre les différentes bandes-sonore tout autour de moi de la façon dont les haut-parleurs étaient placés et ça a fait en sorte de nous transporter de monde en monde comme si tu faisait partie de l'animation, dans chaque univers présenté.
+  - Plus l'heure avancait, plus j'étais impressionée et je pouvais ressentir tout la passion et l'effort mit dans ce travail.
+  - 
+
+
+
+
+
+
+
+  - Le fait que l'oeuvre soit mis-à-part des autres fait vraiment une grande différence autant niveau sonor qu'animation   
+           
 
 
 
