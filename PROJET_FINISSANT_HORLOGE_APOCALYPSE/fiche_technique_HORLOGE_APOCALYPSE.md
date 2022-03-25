@@ -108,3 +108,6 @@ L’horloge de l’apocalypse représente la ligne du temps de l’humanité. Se
 
 
 ## MON ORDRE DE PRÉFÉRENCE APRÈS LA VISITE
+
+1. L'Horloge de l'Apocalypse
+2. 
