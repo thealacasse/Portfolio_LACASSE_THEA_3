@@ -41,6 +41,17 @@ L’horloge de l’apocalypse représente la ligne du temps de l’humanité. Se
 ## Liste des composantes de l'oeuvre ou du dispositif 
 >#### Ces textes sont tirés du site web des projets des finissants TIM 2022 - [L'horloge de l'apocalypse](https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs/web/index.html)
 
+- 11 animations conçues avec after effects (1 par scène)
+- 1 animations supplémentaires conçues avec after effects pour la scène finale
+- Effets sonores divers pour la scène d'introduction et la scène finale
+- 11 trames sonores (1 par scène), le tout est évolutif
+- 4 modules multimédia (captation des données, interprétation des données, contrôle d'éclairage, contrôle vidéo)
+
+![projecteur](medias/projecteur.png)
+
+## Liste des éléments nécessaires pour la mise en exposition 
+>#### Ces textes sont tirés du site web des projets des finissants TIM 2022 - [L'horloge de l'apocalypse](https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs/web/index.html)
+
 - Audio
   - 4 haut-parleurs
   - 8 fils XLR 3
@@ -79,12 +90,6 @@ L’horloge de l’apocalypse représente la ligne du temps de l’humanité. Se
   - 1 bouton
   - 8 safety
 
-
-![projecteur](medias/projecteur.png)
-
-## Liste des éléments nécessaires pour la mise en exposition 
-- Projecteur
-- Cables et tyrap pour tenir et camouffler les fils au plafond
 
 ![projecteur_gif](medias/fleuve_projecteur.gif)
 
