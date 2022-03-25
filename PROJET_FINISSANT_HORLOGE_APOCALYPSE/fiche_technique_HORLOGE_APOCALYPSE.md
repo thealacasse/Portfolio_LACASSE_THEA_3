@@ -21,16 +21,17 @@ Mémoires d'un futur fragile, fragments du passé oublié. Histoire égarée, pu
 >#### Ces textes et photos sont tirés du site web des projets des finissants TIM 2022 - [L'horloge de l'apocalypse](https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs/web/index.html)
 L’horloge de l’apocalypse représente la ligne du temps de l’humanité. Selon le concept de l’horloge, il est présentement 11 h 58 et il reste 2 minutes avant la fin de l’humanité. À travers ce projet, l’interacteur est invité à contrôler l’horloge grâce aux aiguilles et ainsi manipuler la ligne du temps. Au cours de l’expérience, vous pourrez vivre les différentes époques auxquelles la terre a été exposée. Vous serez exposé aux différents enjeux actuels à travers la projection qui vous entourera et par le fait même vous plongera dans une immersion totale.
 
+![gif_change_heure](
 
 
 ## EXPLICATION SUR LA MISE EN ESPACE DE L'OEUVRE
 - L'oeuvre est dans le petit studio, isolé de toutes les autres oeuvres.
-- Les animations sont projetés sur des rideaux blanc et prennes toutes les murs de la pièce, sauf celui qui est dèrrière nous. INSÉRER VIDEO TOUR PIÈCE
+- Les animations sont projetés sur des rideaux blanc et prennes toutes les murs de la pièce, sauf celui qui est dèrrière nous. 
 
 - L'horloge tient par un trépied, puis le téléphone est sur un piédestal juste à côté de celle-ci. 
 
 - La pièce est insonorisé, donc le son des 4 haut-parleur accroché au plafond, dans chaque coin de la pièce, nous donnais l'impression de littéralemnt faire partie de l'animation.  
-- Il y a seulement une seule lumière, placé juste à côté du projecteur qui projète l'animation d'en face, qui illumine l'endroit où on doit se tenir pour faire démarer l'animation. INSÉRER PHOTO PROJECTEUR LUMIÈRE
+- Il y a seulement une seule lumière, placé juste à côté du projecteur qui projète l'animation d'en face, qui illumine l'endroit où on doit se tenir pour faire démarer l'animation. 
 
 ![gif_piece](medias/IMG_2169_MOV_AdobeCreativeCloudExpress.gif)   ![photo_piedestral](medias/horloge_2163.png)                                              ![projecteur](medias/projecteur_2175.png)
 
@@ -89,11 +90,6 @@ L’horloge de l’apocalypse représente la ligne du temps de l’humanité. Se
   - Toile blanche (pour projection)
   - 1 bouton
   - 8 safety
-
-
-![projecteur_gif](medias/fleuve_projecteur.gif)
-
-
 
 
 ## EXPÉRIENCE VÉCUE:
