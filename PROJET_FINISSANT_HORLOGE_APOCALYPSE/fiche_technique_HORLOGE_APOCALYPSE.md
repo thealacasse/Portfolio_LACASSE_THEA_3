@@ -110,8 +110,13 @@ L’horloge de l’apocalypse représente la ligne du temps de l’humanité. Se
 ## MON ORDRE DE PRÉFÉRENCE APRÈS LA VISITE
 
 1. L'Horloge de l'Apocalypse
+   - Avant de faire la visite, nous avions à remplir à quoi on s'attendait lors de l'exposition, puis j'ai vraiment été servis dans ce que je m'attendais. J'ai ressentie plein d'émotions, comme prévu et attendu. En fait, l'exposition de cet oeuvre est encore mieux que ce que je m'attendais
 2. Chère Sasha
+
 3. Chronaufrage
+
 4. Jeu temporel
+
 5. 3 minutes
+
 6. Distorsion collective
