@@ -110,7 +110,7 @@ L’horloge de l’apocalypse représente la ligne du temps de l’humanité. Se
 ## MON ORDRE DE PRÉFÉRENCE APRÈS LA VISITE
 
 1. L'Horloge de l'Apocalypse
-   - Avant de faire la visite, nous avions à remplir à quoi on s'attendait lors de l'exposition, puis j'ai vraiment été servis dans ce que je m'attendais. J'ai ressentie plein d'émotions, comme prévu et attendu. En fait, l'exposition de cet oeuvre est encore mieux que ce que je m'attendais
+  - Avant de faire la visite, nous avions à remplir à quoi on s'attendait lors de l'exposition «J'aime le principe de l'Horloge de l'Apocalypse qui représente toute les facettes de notre société. Le fait qu'une horloge représente littéralement «l'histoire» de la Terre et chacune de ces «phases», la création nous porte à réfléchir sur l'avenir et sur ce qu'on pourrait faire pour éviter le futur que représente l'animation lorsque l'aiguille de l'horloge est sur le 12 (donc l'apocalypse/la fin du monde). J'imagine que chaque intercateurs vont être facinés et réagire de façon positivemnet par le mécanisme de l'horloge qui est relié aux animations.» J'ai vraiment été servis dans ce que je m'attendais. J'ai ressentie tout plein d'émotions, comme prévu et attendu. En fait, l'exposition de cet oeuvre a encore mieux été que ce que je m'attendais. Chaque facette de la société était bien représenté et avait de belles animations qui nous faisait vivre multiples émotions.  
 2. Chère Sasha
 
 3. Chronaufrage
