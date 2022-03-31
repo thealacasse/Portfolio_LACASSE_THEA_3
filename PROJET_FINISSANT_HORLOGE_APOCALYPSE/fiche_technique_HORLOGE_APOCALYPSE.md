@@ -119,7 +119,8 @@ L’horloge de l’apocalypse représente la ligne du temps de l’humanité. Se
    - J'ai beaucoup aimé les illustrations et les émotions que ceux-ci nous donnaient. Premièrement, en regardant le tout, je me sentais comme dans un compte de fée, l'ambiance était calme et paisible mais à la fois stressante. J'avais des frissons par le simple  fait que par nos mouvement, la fillette  devenait de plus en plus stressée, ce qui nous faisait stressé en retour. Chaque détails de la création étaient bien pensé et pour ma part, je ne voulait pas quitté mes yeux de l'art, puisqu'il y avait tout le temps des choses différentes à contemplé, qui elles à chaque fois, nous faisait ressentir des émotions différentes.
    
 4. Jeu temporel
-
+   - J'ai un peu moins aimée cette création, malgré qu'elle était assez simpathique, je pense que je m'avais fait trop d'attentes. J'ai trouvé qu'il manquait d'ambiance sonore et que losrque l'animateur devenait sois-disant plus «sombre», je n'ai pas ressenti l'émotion de surprise et le stresse de devoir avoir une bonne réponse. J'aurais vraiment que les créateurs exagère l'ambiance de «terreur» pour vraiment être étonnée et submergé dans le jeu. J'ai aimé les effets glitch par contre, c'était bien fait!
+   
 5. 3 minutes
 
 6. Distorsion collective
