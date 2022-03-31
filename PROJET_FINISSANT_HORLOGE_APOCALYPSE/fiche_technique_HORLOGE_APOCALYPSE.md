@@ -122,5 +122,6 @@ L’horloge de l’apocalypse représente la ligne du temps de l’humanité. Se
    - J'ai un peu moins aimée cette création, malgré qu'elle était assez simpathique, je pense que je m'avais fait trop d'attentes. J'ai trouvé qu'il manquait d'ambiance sonore et que losrque l'animateur devenait sois-disant plus «sombre», je n'ai pas ressenti l'émotion de surprise et le stresse de devoir avoir une bonne réponse. J'aurais vraiment que les créateurs exagère l'ambiance de «terreur» pour vraiment être étonnée et submergé dans le jeu. J'ai aimé les effets glitch par contre, c'était bien fait!
    
 5. 3 minutes
-
+   - J'ai trouvé que c'était quand même bien fait honnêtement, je pensais au début que ça allait être «boboche», mais au contraire c'était meilleur que je m'en attendait. Ils ont bien réussi leur but de faire en sorte que le 3 minutes dans le caisier passe plus lentement que le 3 minutes dans le gymnase. Je me suis sentis seule dans le casier et lorsque j'ai enlevé le casque et qu'il y avait des faits sur l'intimidation, je me suis sentis vraiment «fragile» et je n'en revenait pas à quel point une expérience, dans le corps d'une personne vivant une situation similaire, pouvait être autant choquante.
+   
 6. Distorsion collective
