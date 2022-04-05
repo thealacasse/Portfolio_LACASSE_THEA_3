@@ -37,7 +37,7 @@ L’horloge de l’apocalypse représente la ligne du temps de l’humanité. Se
 
 
 ## Voici le croquis de l'oeuvre L'Horloge de l'Apocalypse
-![croqui](croquis/croquis_fleuve.jpg)
+![croqui](croquis/horloge_croquis.png)
 
 ## Liste des composantes de l'oeuvre ou du dispositif 
 >#### Ces textes sont tirés du site web des projets des finissants TIM 2022 - [L'horloge de l'apocalypse](https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs/web/index.html)
