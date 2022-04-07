@@ -3,9 +3,16 @@
 >## *Guillaume Arseneault et Olivia Mc Gilchrist* 
 
 ## À PROPOS DES INTERVENANT(E)S
+- Guillaume Arseneault
+  - Professeur et concepteur tehcnologique interactif
+- Olivia Mc Gilchrist
+  - Artiste doctorante à Concordia.
+  - Passage de la photo à la video, puis de la vidéo à la réalité virtuel.
+  - Est au Canada depuis 2015 et à vécue en Jamaique de 2011-2024.
+  - Photographie comment elle percois le monde autour d'elle, surtout avec un contexte majoritairement des relations humaines noir et blanc. 
+  - Cherche la parfaite combinaison entre la representation et comment la representation peut êre vu d'une autre manière.
 
 
-Depuis plus de 20 ans, le duo Béchard Hudon sonde la charge tant physique que sociale des résonances acoustiques à travers des œuvres installatives sonores et sculpturales qui appellent l'écoute attentive et l'observation dans la durée. L'exposition Configurations du sensible présente leurs plus récentes productions, entre autres la série Mécanismes de dessaisissement (2019-2020), composée de 3 sculptures murales géométriques et cinétiques au fort potentiel vibratoire, et L'en deçà (2021), une imposante structure en bois aux consonances architecturales interagissant avec le public à travers de profondes modulations sonores. Si cette dernière pièce met de l'avant le paysage acoustique et tellurique de différents milieux naturels où le duo a mené des recherches de fond, d'autres œuvres misent sur des variations optiques qui témoignent implicitement d'une volonté de bousculer certains paradigmes sociaux afin de repenser nos manières de voir et d'agir. Dans l'ensemble, l'exposition convie à une réflexion sur « l'épaisseur du présent », entendu par la philosophe Isabelle Stengers comme l'expérience d'un temps non euclidien et non linéaire qui contribue à déconstruire les grandes divisions binaires. — A. S.
 
 
 ## DESCRIPTION - Le fleuve, 50˚11'53,8"N.,66˚4'10"O.
