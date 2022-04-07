@@ -13,15 +13,8 @@
   - Cherche la parfaite combinaison entre la representation et comment la representation peut êre vu d'une autre manière.
 
 
-
-
-## DESCRIPTION - Le fleuve, 50˚11'53,8"N.,66˚4'10"O.
->#### Cette photo et ces textes sont tirés du site web de l'exposition de la Maison des Arts de Laval - [Configurations du sensible site web](https://www.laval.ca/Pages/Fr/Calendrier/mda-expo-bechard-hudon.aspx)
-La troisième œuvre est une projection vidéo présentée en une boucle qui fait 32 minutes. Le Fleuve, 50° 11′ 53,8” N., 66° 4′ 10″ O. (2022) montre des images captées à la Pointe à Moisie, là où les eaux de la mer se confondent avec celles du fleuve. En fait, il s’agit d’un bassin d’images et les flots apparaissent ainsi stylisés, se répétant en ondes qui font échos à celles de L’en-deça. La contemplation que l’on en fait, sur le long temps que propose la projection, vire bien vite à l’expérience hypnotique.
-
-Catherine Béchard et Sabin Hudon apparaissent ainsi comme des artistes à la quête de ce qui se meut. Persuadés que le mouvement doit être représenté et investigué, ils en traquent les manifestations dans tout ce qui peut bien être de semblable nature ondulatoire. En cette occasion, ce sont à travers figures essentielles, ondes sonores et flots continus de l’aqueux qui font l’objet de leur attention. Car il doit bien y avoir quelque chose à tirer du mouvement. Se mouvoir est tout de même une manière des corps d’habiter l’espace dans le temps.
-
-![photo oeuvre](medias/leFleuve.png)
+## À PROPOS DE LA CONFÉRENCE
+Pour la semaine des arts, Guillaume Arseneault et Olivia Mc Gilchrist, sont venus faire une conférence sur la relation entre le mouvement et leur ressentes création artistique. Pour ce qui est de la création à Guillaume Arseneault, il a travaillé avec Sabrina Raté, un projet nommé Distributed Memories, qui se retrouve maintenant en exposition à Paris. Guillaume à entre autres traité le système d'archive vidéos. Il nous expliqua que sur 4 poteaux, se retrouves plein de petites écrans reliés à des ordinateurs, avec des micros accrochés sur ceux-ci. Sur ces écrans, il y avait des projections d'images animés et 3D dans un univers un peu psychadiélique, qui elles, étaient crées par Sabrina. Dans leur oeuvres, il s'y trouve un bouton interactif que lorsqu'on appuie dessus, toutes les vidéos projetés sur tout les écrans changent. 
 
 
 
