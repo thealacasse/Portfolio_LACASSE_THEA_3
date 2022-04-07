@@ -1,6 +1,6 @@
 # Compte-rendu conférence de la Semaine des arts
 
->## *Guillaume Arseneault et * 
+>## *Guillaume Arseneault et Olivia mc gilchrist* 
 
 ## À PROPOS DE L'EXPOSITION CONFIGURATION DU SENSIBLE - les sens et émotions
 >#### Ces textes sont tirés du site web de l'exposition de la Maison des Arts de Laval - [Configurations du sensible site web](https://www.laval.ca/Pages/Fr/Calendrier/mda-expo-bechard-hudon.aspx)
