@@ -1,6 +1,6 @@
 # Compte-rendu conférence de la Semaine des arts
 
->## *Guillaume Arseneault et Olivia mc gilchrist* 
+>## *Guillaume Arseneault et Olivia Mc Gilchrist* 
 
 ## À PROPOS DES INTERVENANT(E)S
 
