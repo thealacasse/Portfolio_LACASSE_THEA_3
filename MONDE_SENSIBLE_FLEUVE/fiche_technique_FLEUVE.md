@@ -26,7 +26,7 @@ Catherine Béchard et Sabin Hudon apparaissent ainsi comme des artistes à la qu
 
 
 ## EXPLICATION SUR LA MISE EN ESPACE DE L'OEUVRE
-- L'oeuvre est projeté sur un long mur d'environ 
+- L'oeuvre est projeté sur un long mur, dans le fond de la pièce.
 
 
 ## Voici le croquis de l'oeuvre Le fleuve, 50˚11'53,8"N.,66˚4'10"O. vue de haut
