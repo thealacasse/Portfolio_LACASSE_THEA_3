@@ -36,4 +36,4 @@ Le concours Luminothérapie est le plus important au Québec en matière d’ins
 - L'exposition m'a fait beaucoup pensé à l'exposition de la Biennial, c'était sombre et il y avait plein d'expositions lumineuses, comme lorsqu'on rentrait dans la pièce de la Biennial et qu'il y avait des multiples d'expositions toute aussi colorées les unes que les autres.
 
 ## CONCLUSION
-- 
+- J'ai aimée toutes les expositions qu'on est allée voir cette session ci et j'ai trouvé vraiment inspirant le fait que tu peux travailler avec du multimédia pour créer des oeuvres et quand parfois, sans la touche du multimédia, comme du son, des vidéos, ou de l'interactivité avec l'oeuvre change totalement l'expérience vécu!
