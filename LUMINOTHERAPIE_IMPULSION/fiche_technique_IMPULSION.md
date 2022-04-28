@@ -37,7 +37,7 @@ Impulsion fait vivre une expérience interactive de sons et de lumières. Elle p
 ![plan_luminothérapie](medias/IMG_1520.jpg)
 
 ## Voici le croquis de l'oeuvre Impulsion vue de haut
-![croqui](medias/IMG_1523.jpg)
+![croqui](medias/croquis.jpg)
 
 ## Liste des composantes et techniques de l'oeuvre ou du dispositif 
 - Lumières DELs
