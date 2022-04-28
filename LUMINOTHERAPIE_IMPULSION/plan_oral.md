@@ -21,7 +21,7 @@
 
 
 ## EXPLICATION SUR LA MISE EN ESPACE DE L'OEUVRE
-- L'oeuvre est exposé sur une assez grande distance, dans le centre du quartier des spectacles et juste à côté de la patinoir illuminée. Environ 5 mètres séparent les balances.
+- L'oeuvre est exposé sur une assez grande distance, dans le centre du quartier des spectacles et juste à côté de la patinoir illuminée. Environ 3 mètres séparent les balances.
 
 
 ## EXPÉRIENCE VÉCUE
