@@ -30,7 +30,7 @@ Impulsion fait vivre une expérience interactive de sons et de lumières. Elle p
 
 ## EXPLICATION SUR LA MISE EN ESPACE DE L'OEUVRE
 - L'oeuvre est exposé sur une assez grande distance, dans le centre du quartier des spectacles et juste à côté de la patinoir illuminée.
-- Environ 5 mètres séparent les balances.
+- Environ 3 mètres séparent les balances.
 
 ## Voici le plan de l'exposition de Luminothérapie
 
