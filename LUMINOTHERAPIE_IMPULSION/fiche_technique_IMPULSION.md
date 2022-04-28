@@ -61,7 +61,7 @@ Impulsion fait vivre une expérience interactive de sons et de lumières. Elle p
   - C'était un beau moment entrendre les enfants rires et l'amusement que procurait les balances.
   - Il y avait une belle ambiance, de la musique et surtout plein de lumière
   
-  ![gif_balances](medias/video-1646249487_AdobeCreativeCloudExpress.gif)
+  ![gif_balances](medias/gif_balances_2.gif)
   
 
 - CE QUE J'AI LE PLUS AIMÉE:
