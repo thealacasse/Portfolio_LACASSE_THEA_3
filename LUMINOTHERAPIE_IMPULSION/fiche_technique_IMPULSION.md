@@ -19,7 +19,7 @@ Le concours Luminothérapie est le plus important au Québec en matière d’ins
 
 
 
-![photo oeuvre](medias/274754793_1164574297413669_4054563768481923679_n.jpg)
+![photo oeuvre](medias/mtl.jpg)
 
 ## DESCRIPTION - Impulsion
 >#### Ces textes sont tirés du site web de l'exposition Luminothérapie, 12e édition, Impulsion - [Impulsion, LUMINOTHÉRAPIE site web](https://www.quartierdesspectacles.com/fr/a-propos/les-productions-du-partenariat/oeuvre/2/impulsion-par-lateral-office-cs-design-en-collaboration-avec-egp-group/#)
