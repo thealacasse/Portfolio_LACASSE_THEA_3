@@ -34,7 +34,7 @@ Impulsion fait vivre une expérience interactive de sons et de lumières. Elle p
 
 ## Voici le plan de l'exposition de Luminothérapie
 
-![plan_luminothérapie](medias/IMG_1520.jpg)
+![plan_luminothérapie](medias/emplacement.jpg)
 
 ## Voici le croquis de l'oeuvre Impulsion vue de haut
 ![croqui](medias/croquis.jpg)
