@@ -33,7 +33,7 @@ L’horloge de l’apocalypse représente la ligne du temps de l’humanité. Se
 - La pièce est insonorisé, donc le son des 4 haut-parleur accroché au plafond, dans chaque coin de la pièce, nous donnais l'impression de littéralemnt faire partie de l'animation.  
 - Il y a seulement une seule lumière, placé juste à côté du projecteur qui projète l'animation d'en face, qui illumine l'endroit où on doit se tenir pour faire démarer l'animation. 
 
-![gif_piece](medias/gif_animations.gif)  ![photo_piedestral](medias/horloge_2163.png)                                              ![projecteur](medias/projecteur_2175.png)
+![gif_piece](medias/gif_animations.gif)  ![photo_piedestral](medias/horloge_2163.png)                                              ![projecteur](medias/projecteur_2175.png)                               
 
 
 ## Voici le croquis de l'oeuvre L'Horloge de l'Apocalypse
