@@ -21,7 +21,7 @@ Le concours Luminothérapie est le plus important au Québec en matière d’ins
 
 
 ## EXPLICATION SUR LA MISE EN ESPACE DE L'OEUVRE
-- L'oeuvre est esxposé sur une assez grande distance, dans le centre du quartier des spectacles et juste à côté de la patinoir illuminée. Environ 5 mètres séparent les balances.
+- L'oeuvre est exposé sur une assez grande distance, dans le centre du quartier des spectacles et juste à côté de la patinoir illuminée. Environ 5 mètres séparent les balances.
 
 
 ## EXPÉRIENCE VÉCUE
@@ -33,6 +33,7 @@ Le concours Luminothérapie est le plus important au Québec en matière d’ins
   > Donc, ce que je proposerais pour bien profiter de l'exposition et tout ses aspects, je diminurais le son de la musique dans la partie des balances pour être sur que l'on enetend bien le son.
 
 ## LIENS AVEC LES AUTRES EXPOSITIONS
-- L'exposition m'a fait beaucoup pensé à la B
+- L'exposition m'a fait beaucoup pensé à l'exposition de la Biennial, c'était sombre et il y avait plein d'expositions lumineuses, comme lorsqu'on rentrait dans la pièce de la Biennial et qu'il y avait des multiples d'expositions toute aussi colorées les unes que les autres.
 
 ## CONCLUSION
+- 
