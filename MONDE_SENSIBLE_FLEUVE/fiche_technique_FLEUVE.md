@@ -18,7 +18,7 @@ Depuis plus de 20 ans, le duo Béchard Hudon sonde la charge tant physique que s
 
 ## DESCRIPTION - Le fleuve, 50˚11'53,8"N.,66˚4'10"O.
 >#### Cette photo et ces textes sont tirés du site web de l'exposition de la Maison des Arts de Laval - [Configurations du sensible site web](https://www.laval.ca/Pages/Fr/Calendrier/mda-expo-bechard-hudon.aspx)
-La troisième œuvre est une projection vidéo présentée en une boucle qui fait 32 minutes. Le Fleuve, 50° 11′ 53,8” N., 66° 4′ 10″ O. (2022) montre des images captées à la Pointe à Moisie, là où les eaux de la mer se confondent avec celles du fleuve. En fait, il s’agit d’un bassin d’images et les flots apparaissent ainsi stylisés, se répétant en ondes qui font échos à celles de L’en-deça. La contemplation que l’on en fait, sur le long temps que propose la projection, vire bien vite à l’expérience hypnotique.
+La troisième œuvre est une projection vidéo présentée en une boucle qui fait 32 minutes. Le Fleuve, 50° 11′ 53,8” N., 66° 4′ 10″ O. (2022) montre des images captées à la Pointe à Moisie, là où les eaux de la mer se confondent avec celles du fleuve. En fait, il s’agit d’un bassin d’images et les flots apparaissent ainsi stylisés, se répétant en ondes qui font échos à celles de L’en-deçà. La contemplation que l’on en fait, sur le long temps que propose la projection, vire bien vite à l’expérience hypnotique.
 
 Catherine Béchard et Sabin Hudon apparaissent ainsi comme des artistes à la quête de ce qui se meut. Persuadés que le mouvement doit être représenté et investigué, ils en traquent les manifestations dans tout ce qui peut bien être de semblable nature ondulatoire. En cette occasion, ce sont à travers figures essentielles, ondes sonores et flots continus de l’aqueux qui font l’objet de leur attention. Car il doit bien y avoir quelque chose à tirer du mouvement. Se mouvoir est tout de même une manière des corps d’habiter l’espace dans le temps.
 
@@ -26,7 +26,7 @@ Catherine Béchard et Sabin Hudon apparaissent ainsi comme des artistes à la qu
 
 
 ## EXPLICATION SUR LA MISE EN ESPACE DE L'OEUVRE
-- L'oeuvre est projeté sur un long mur, dans le fond de la pièce.
+- L'oeuvre est projetée sur un long mur, dans le fond de la pièce.
 
 
 ## Voici le croquis de l'oeuvre Le fleuve, 50˚11'53,8"N.,66˚4'10"O. vue de haut
@@ -41,7 +41,7 @@ Catherine Béchard et Sabin Hudon apparaissent ainsi comme des artistes à la qu
 
 ## Liste des éléments nécessaires pour la mise en exposition 
 - Projecteur
-- Cables et tyrap pour tenir et camouffler les fils au plafond
+- Câbles et attaches autobloquantes pour tenir et camoufler les fils au plafond.
 
 ![projecteur_gif](medias/fleuve_projecteur.gif)
 
@@ -51,9 +51,9 @@ Catherine Béchard et Sabin Hudon apparaissent ainsi comme des artistes à la qu
 ## EXPÉRIENCE VÉCUE:
 
 - DESCRIPTION DE VOTRE EXPÉRIENCE DE L'OEUVRE: 
-  - L'oeuvre était dans le fond de la pièce et donc, nous ne pouvions pas la voir directement. Nous rentrions, puis ce n'est q'en traversant une autre oeuvre que nous pouvons appercevoir cette projection.
-  - L'espace était spacieuse nous pouvions donc, s'asseoir, se coucher ou rester debout si on voulait pour contempler l'oeuvre. La projection peut être vue sous plusieurs angles et percpectives. Certains voyaient un fleuve, d'autres pouvaient voir des sortes de filaments, comme des ondes et d"autres disait voir une sorte de portail vue au fait que les vidéos soient placées verticalement.
-  - La pièce était sombre et alors la projection était super clair.
+  - L'oeuvre était dans le fond de la pièce et donc, nous ne pouvions pas la voir directement. Nous rentrions, puis ce n'est qu'en traversant une autre oeuvre que nous pouvons apercevoir cette projection.
+  - L'espace était spacieux nous pouvions donc, s'asseoir, se coucher ou rester debout si on voulait pour contempler l'oeuvre. La projection peut être vue sous plusieurs angles et perspectives. Certains voyaient un fleuve, d'autres pouvaient voir des sortes de filaments, comme des ondes et d'autres disaient voir une sorte de portail vue au fait que les vidéos soient placées verticalement.
+  - La pièce était sombre et alors la projection était super claire.
   
   ![gif_lefleuve](medias/lefleuve_AdobeCreativeCloudExpress.gif)   ![salle](medias/salle.png)          
 
@@ -61,13 +61,13 @@ Catherine Béchard et Sabin Hudon apparaissent ainsi comme des artistes à la qu
 
   
 
-- CE QUE J'AI LE PLUS AIMÉE:
-  - L'oeuvre n'avais pas de sons inclu, mais le fait qu'elle soit placée juste à côté d'une autre oeuvre qi elle, ayant une bande sonor, faisait en sorte qu'on pouvait observé la projection tout en écoutant les sons de l'autre oeuvre ce qui créeait un tout assez majestueux.
-  - J'ai vraiment aimé le fait que l'espace était spacieuse, puisque tu te sentais absorbé dans l'oeuvre, seule au monde et comme si tu étais hypnotisé par celle-ci. C'était relaxant et appaisant ce qui faisait vraiment du bien à l'esprit.
-  - J'ai aimé que les petits cartels soit loin de son oeuvre, mais bien placé pour que l'on sache à qui appartient quoi. On pouvait laisser notre imagination aller et se créer des hypothèses sur quoi est le messages de l'oeuvre ou bien qu'est-ce que c'est sensé représenté, sans se faire donner la réponse tout de suite.
+- CE QUE J'AI LE PLUS AIMÉ:
+  - L'oeuvre n'avait pas de son inclus, mais le fait qu'elle soit placée juste à côté d'une autre oeuvre qui elle, ayant une bande sonore, faisait en sorte qu'on pouvait observer la projection tout en écoutant les sons de l'autre oeuvre ce qui créait un tout assez majestueux.
+  - J'ai vraiment aimé le fait que l'espace était spacieux, puisque je me sentais absorbé dans l'oeuvre, seule au monde et comme si j'étais hypnotisée par celle-ci. C'était relaxant et apaisant ce qui faisait vraiment du bien à l'esprit.
+  - J'ai aimé que les petits cartels soit loin de son oeuvre, mais bien placés pour que l'on sache à qui appartient à quoi. On pouvait laisser notre imagination aller et se créer des hypothèses sur quel est le message de l'oeuvre ou bien qu'est-ce que c'est censé représenter, sans se faire donner la réponse tout de suite.
 
 
 - ASPECT QUE VOUS NE SOUHAITERIEZ PAS RETENIR POUR VOS PROPRES CRÉATIONS: 
-  - Honnêtement, je n'ai aucun point négatif à dire sur cette exposition. La mise en place, la projection, les sons, les lumières, tout était selon moi, parfait. Ce n'était pas trop charger d'oeuvres et nous pouvions prendre le temps pour bien observer chaque oeuvre une à la fois et ce, sans se dépêcher pour aller voir toute les oeuvres.
+  - Honnêtement, je n'ai aucun point négatif à dire sur cette exposition. La mise en place, la projection, les sons, les lumières, tout était selon moi, parfait. Ce n'était pas trop charger d'oeuvres et nous pouvions prendre le temps pour bien observer chaque oeuvre une à la fois et ce, sans se dépêcher pour aller voir toutes les oeuvres.
   
 
