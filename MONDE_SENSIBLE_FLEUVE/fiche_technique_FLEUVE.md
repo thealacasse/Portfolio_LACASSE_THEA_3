@@ -68,6 +68,6 @@ Catherine Béchard et Sabin Hudon apparaissent ainsi comme des artistes à la qu
 
 
 - ASPECT QUE VOUS NE SOUHAITERIEZ PAS RETENIR POUR VOS PROPRES CRÉATIONS: 
-  - Honnêtement, je n'ai aucun point négatif à dire sur cette exposition. La mise en place, la projection, les sons, les lumières, tout était selon moi, parfait. Ce n'était pas trop charger d'oeuvres et nous pouvions prendre le temps pour bien observer chaque oeuvre une à la fois et ce, sans se dépêcher pour aller voir toutes les oeuvres.
+  - Honnêtement, je n'ai aucun point négatif à dire sur cette exposition. La mise en place, la projection, les sons, les lumières, tout était selon moi, parfait. Ce n'était pas trop chargé d'oeuvres et nous pouvions prendre le temps pour bien observer chaque oeuvre une à la fois et ce, sans se dépêcher pour aller voir toutes les oeuvres.
   
 
