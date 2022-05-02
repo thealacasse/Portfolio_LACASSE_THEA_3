@@ -41,7 +41,7 @@ Catherine Béchard et Sabin Hudon apparaissent ainsi comme des artistes à la qu
 
 ## Liste des éléments nécessaires pour la mise en exposition 
 - Projecteur
-- Câbles et attaches autobloquantes pour tenir et camoufler les fils au plafond.
+- Des câbles et des attaches autobloquantes pour tenir et camoufler les fils au plafond.
 
 ![projecteur_gif](medias/fleuve_projecteur.gif)
 
